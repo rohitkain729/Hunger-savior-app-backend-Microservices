@@ -1,0 +1,18 @@
+server:
+  port: 8765
+
+spring:
+  application:
+    name: api-gateway
+
+  cloud:
+    gateway:
+      routes:
+        - id: user-service
+          uri: lb://user-service
+          predicate:
+            - Path=/users/**
+        - id: restaurant-service
+          uri: lb://restaurant-service
+          predicate:
+            - Path=/restaurant/**

@@ -1,0 +1,7 @@
+package com.hunger.saviour.portal.dtos;
+
+import java.security.interfaces.RSAPublicKey;
+
+public record RsaKeyConfigurationProperties(RSAPublicKey public) {
+
+}

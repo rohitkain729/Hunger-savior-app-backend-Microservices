@@ -1,0 +1,34 @@
+package com.hunger.saviour.portal.entities;
+
+import jakarta.persistence.Column;
+import jakarta.persistence.Entity;
+import jakarta.persistence.GeneratedValue;
+import jakarta.persistence.GenerationType;
+import jakarta.persistence.Id;
+import jakarta.persistence.Table;
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
+@Entity
+@Table(name = "restaurant_menu")
+@Data
+@AllArgsConstructor
+@NoArgsConstructor
+public class RestaurantMenuEntity {
+	@Id
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
+	@Column(name = "menu_id")
+	private Integer restaurantMenuId;
+	@Column(name = "item_name")
+	private String menyItem;
+	@Column(name = "description")
+	private String description;
+	@Column(name = "menu_image_url")
+	private String menuItemImageUrl;
+	@Column(name = "menu_type")
+	private String menuType;
+	@Column(name = "price")
+	private Double price;
+	
+}

@@ -1,0 +1,24 @@
+
+rohit@Rohit MINGW64 /g/Microservices-Pro-Shrinivas/realtime-proj/HUNGER_RESTARUNT/Hunger-saviour-Backend/user-service/src/main/resources/certs
+$ openssl genrsa -out keypair.pem 2048
+
+rohit@Rohit MINGW64 /g/Microservices-Pro-Shrinivas/realtime-proj/HUNGER_RESTARUNT/Hunger-saviour-Backend/user-service/src/main/resources/certs
+$ openssl rsa -in keypair.pem -pubout -out public.pem
+writing RSA key
+
+rohit@Rohit MINGW64 /g/Microservices-Pro-Shrinivas/realtime-proj/HUNGER_RESTARUNT/Hunger-saviour-Backend/user-service/src/main/resources/certs
+$ openssl pkcs8 -topk8 -infom PEM -outform PEM -nocrypt -in keypair.pem -out private.pem
+pkcs8: Unknown option: -infom
+pkcs8: Use -help for summary.
+
+rohit@Rohit MINGW64 /g/Microservices-Pro-Shrinivas/realtime-proj/HUNGER_RESTARUNT/Hunger-saviour-Backend/user-service/src/main/resources/certs
+$ openssl pkcs8 -topk8 -inform PEM -outform PEM -nocrypt -in keypair.pem -out private.pem
+
+
+This command generate a 2048-bit RSA private key (cryptographic key used to provide high level for  encryption and decryption data).
+and save it to a file named "keypair.pem" using open SSL.
+
+## openssl rsa -in keypair.pem -pubout -out public.pem
+-This command take a private key stored in keypair.pem and extract the corresponding public key , and saves it to a file name "public.pem" using opensssl command.
+
+

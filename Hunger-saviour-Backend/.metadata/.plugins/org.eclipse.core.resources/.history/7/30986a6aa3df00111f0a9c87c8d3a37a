@@ -1,0 +1,22 @@
+package com.hunger.saviour.portal.api_gateway.filter;
+
+import java.util.List;
+
+public class RouteValidator {
+
+	public static final List<String> openApiEndPoints = List.of(
+			"/users/login",
+			"/users/signup",
+			"/users/validate"
+			);
+	
+	public final Predicate<ServerHttpRequest> publicEndPoints = request -> 
+	openApiEndPoints.stream()
+	.noneMatch(uri->request.getURI().getPath().contacts)(uri));
+	
+	if(validator.publicEndpoints.test(exchange.getRequest())) {
+		
+		
+	}
+	
+}

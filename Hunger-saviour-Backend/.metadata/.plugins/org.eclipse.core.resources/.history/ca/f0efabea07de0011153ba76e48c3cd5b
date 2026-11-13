@@ -1,0 +1,10 @@
+package com.hunger.saviour.portal.repository;
+
+import org.springframework.data.repository.CrudRepository;
+import org.springframework.data.repository.PagingAndSortingRepository;
+
+import com.hunger.saviour.portal.entities.RestaurantEntity;
+
+public interface RestaurantRepository extends PagingAndSortingRepository<RestaurantEntity, Integer> {
+
+}

@@ -1,0 +1,6 @@
+package com.hunger.saviour.portal.api_gateway.filter;
+
+public class RouteValidator {
+
+	public static final List<String> openApiEndPoints;
+}

@@ -1,0 +1,5 @@
+package com.hunger.saviour.portal.api_gateway.proxy;
+
+public class AuthenticationProxy {
+
+}

@@ -1,0 +1,5 @@
+package com.hunger.saviour.portal.config;
+
+public class CustomUserDetailsService {
+
+}

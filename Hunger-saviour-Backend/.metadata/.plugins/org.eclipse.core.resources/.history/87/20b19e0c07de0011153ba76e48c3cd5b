@@ -1,0 +1,11 @@
+package com.hunger.saviour.portal.dtos;
+
+public class RestaurantMenuDTO {
+
+	private Integer restaurantMenuId;
+	private String menuItem;
+	private String description;
+	private String menuItemImageUrl;
+	private String menuType;
+	private Double price;
+}

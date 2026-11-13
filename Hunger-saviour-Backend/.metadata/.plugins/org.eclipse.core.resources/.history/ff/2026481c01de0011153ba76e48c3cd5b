@@ -1,0 +1,348 @@
+
+[
+  {
+    "restaurantName": "Box-8 Desi Meals",
+    "rating": 4.2,
+    "menuTypes": ["Soups", "Starters", "Biryani", "Curries", "Platter"],
+    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c",
+    "location": "Saroor Nagar West",
+    "menus": [
+      {
+        "menuItem": "Sweet Corn Chicken Soup (Serves 1)",
+        "price": 139,
+        "menuType": "Soups",
+        "description": "Savory and satisfying sweet corn chicken soup.",
+        "menuImageUrl": "https://images.unsplash.com/photo-1547592180-85f173990554"
+      },
+      {
+        "menuItem": "Chicken Dum Biryani",
+        "price": 249,
+        "menuType": "Biryani",
+        "description": "Traditional chicken dum biryani with aromatic spices.",
+        "menuImageUrl": "https://images.unsplash.com/photo-1563379091339-03246963d96c"
+      }
+    ]
+  },
+  {
+    "restaurantName": "Paradise Biryani",
+    "rating": 4.5,
+    "menuTypes": ["Biryani", "Starters", "Kebabs", "Desserts"],
+    "imageUrl": "https://images.unsplash.com/photo-1563379091339-03246963d96c",
+    "location": "Dilsukhnagar",
+    "menus": [
+      {
+        "menuItem": "Hyderabadi Chicken Biryani",
+        "price": 299,
+        "menuType": "Biryani",
+        "description": "Authentic Hyderabadi biryani cooked with fragrant basmati rice.",
+        "menuImageUrl": "https://images.unsplash.com/photo-1563379091339-03246963d96c"
+      },
+      {
+        "menuItem": "Chicken Seekh Kebab",
+        "price": 199,
+        "menuType": "Kebabs",
+        "description": "Juicy minced chicken kebabs grilled with Indian spices.",
+        "menuImageUrl": "https://images.unsplash.com/photo-1599487488170-d11ec9c172f0"
+      }
+    ]
+  },
+  {
+    "restaurantName": "Pizza Paradise",
+    "rating": 4.3,
+    "menuTypes": ["Pizza", "Pasta", "Burgers", "Beverages"],
+    "imageUrl": "https://images.unsplash.com/photo-1513104890138-7c749659a591",
+    "location": "LB Nagar",
+    "menus": [
+      {
+        "menuItem": "Margherita Pizza",
+        "price": 199,
+        "menuType": "Pizza",
+        "description": "Classic pizza topped with mozzarella cheese and fresh basil.",
+        "menuImageUrl": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002"
+      },
+      {
+        "menuItem": "Farmhouse Pizza",
+        "price": 299,
+        "menuType": "Pizza",
+        "description": "Loaded with capsicum, onion, tomato and mushrooms.",
+        "menuImageUrl": "https://images.unsplash.com/photo-1513104890138-7c749659a591"
+      }
+    ]
+  },
+  {
+    "restaurantName": "Burger Junction",
+    "rating": 4.1,
+    "menuTypes": ["Burgers", "Sandwiches", "Fries", "Beverages"],
+    "imageUrl": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd",
+    "location": "Kothapet",
+    "menus": [
+      {
+        "menuItem": "Classic Veg Burger",
+        "price": 99,
+        "menuType": "Burgers",
+        "description": "Fresh vegetable patty with lettuce and creamy sauce.",
+        "menuImageUrl": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd"
+      },
+      {
+        "menuItem": "Double Cheese Burger",
+        "price": 179,
+        "menuType": "Burgers",
+        "description": "Double cheese burger with crispy patty and fresh vegetables.",
+        "menuImageUrl": "https://images.unsplash.com/photo-1553979459-d2229ba7433a"
+      }
+    ]
+  },
+  {
+    "restaurantName": "South Indian Kitchen",
+    "rating": 4.4,
+    "menuTypes": ["Dosa", "Idli", "Vada", "Meals"],
+    "imageUrl": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
+    "location": "Malakpet",
+    "menus": [
+      {
+        "menuItem": "Masala Dosa",
+        "price": 89,
+        "menuType": "Dosa",
+        "description": "Crispy dosa stuffed with flavorful potato masala.",
+        "menuImageUrl": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc"
+      },
+      {
+        "menuItem": "Idli Sambar",
+        "price": 59,
+        "menuType": "Idli",
+        "description": "Soft steamed idlis served with hot sambar and chutneys.",
+        "menuImageUrl": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc"
+      }
+    ]
+  },
+  {
+    "restaurantName": "The Chinese Wok",
+    "rating": 4.0,
+    "menuTypes": ["Noodles", "Fried Rice", "Manchurian", "Starters"],
+    "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19",
+    "location": "Madhapur",
+    "menus": [
+      {
+        "menuItem": "Veg Hakka Noodles",
+        "price": 149,
+        "menuType": "Noodles",
+        "description": "Stir-fried noodles with fresh vegetables and Chinese sauces.",
+        "menuImageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19"
+      },
+      {
+        "menuItem": "Chicken Fried Rice",
+        "price": 189,
+        "menuType": "Fried Rice",
+        "description": "Chinese-style fried rice with chicken and vegetables.",
+        "menuImageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b"
+      }
+    ]
+  },
+  {
+    "restaurantName": "Punjabi Tadka",
+    "rating": 4.3,
+    "menuTypes": ["North Indian", "Curries", "Roti", "Thali"],
+    "imageUrl": "https://images.unsplash.com/photo-1546833999-b9f581a1996d",
+    "location": "Ameerpet",
+    "menus": [
+      {
+        "menuItem": "Paneer Butter Masala",
+        "price": 219,
+        "menuType": "Curries",
+        "description": "Soft paneer cubes cooked in rich buttery tomato gravy.",
+        "menuImageUrl": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7"
+      },
+      {
+        "menuItem": "Dal Makhani",
+        "price": 179,
+        "menuType": "Curries",
+        "description": "Slow-cooked black lentils with cream and Indian spices.",
+        "menuImageUrl": "https://images.unsplash.com/photo-1546833999-b9f581a1996d"
+      }
+    ]
+  },
+  {
+    "restaurantName": "Fried Chicken House",
+    "rating": 4.2,
+    "menuTypes": ["Fried Chicken", "Burgers", "Wings", "Combos"],
+    "imageUrl": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec",
+    "location": "Kukatpally",
+    "menus": [
+      {
+        "menuItem": "Crispy Chicken Bucket",
+        "price": 349,
+        "menuType": "Fried Chicken",
+        "description": "Crispy golden fried chicken with a flavorful coating.",
+        "menuImageUrl": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec"
+      },
+      {
+        "menuItem": "Spicy Chicken Wings",
+        "price": 199,
+        "menuType": "Wings",
+        "description": "Chicken wings tossed in a spicy signature sauce.",
+        "menuImageUrl": "https://images.unsplash.com/photo-1527477396000-e27163b481c2"
+      }
+    ]
+  },
+  {
+    "restaurantName": "Tandoori Treats",
+    "rating": 4.4,
+    "menuTypes": ["Tandoori", "Kebabs", "Starters", "Curries"],
+    "imageUrl": "https://images.unsplash.com/photo-1599487488170-d11ec9c172f0",
+    "location": "Mehdipatnam",
+    "menus": [
+      {
+        "menuItem": "Tandoori Chicken",
+        "price": 299,
+        "menuType": "Tandoori",
+        "description": "Chicken marinated in yogurt and spices, cooked in a tandoor.",
+        "menuImageUrl": "https://images.unsplash.com/photo-1599487488170-d11ec9c172f0"
+      },
+      {
+        "menuItem": "Chicken Malai Kebab",
+        "price": 249,
+        "menuType": "Kebabs",
+        "description": "Creamy chicken kebabs with mild aromatic spices.",
+        "menuImageUrl": "https://images.unsplash.com/photo-1599307767316-776533bb941c"
+      }
+    ]
+  },
+  {
+    "restaurantName": "Sweet Cravings",
+    "rating": 4.6,
+    "menuTypes": ["Cakes", "Ice Cream", "Desserts", "Pastries"],
+    "imageUrl": "https://images.unsplash.com/photo-1565958011703-44f9829ba187",
+    "location": "Himayatnagar",
+    "menus": [
+      {
+        "menuItem": "Chocolate Truffle Cake",
+        "price": 399,
+        "menuType": "Cakes",
+        "description": "Rich chocolate cake layered with smooth chocolate ganache.",
+        "menuImageUrl": "https://images.unsplash.com/photo-1578985545062-69928b1d9587"
+      },
+      {
+        "menuItem": "Vanilla Ice Cream",
+        "price": 89,
+        "menuType": "Ice Cream",
+        "description": "Creamy vanilla ice cream made with a classic flavor.",
+        "menuImageUrl": "https://images.unsplash.com/photo-1563805042-7684c019e1cb"
+      }
+    ]
+  },
+  {
+    "restaurantName": "Healthy Bowl",
+    "rating": 4.3,
+    "menuTypes": ["Salads", "Healthy Bowls", "Juices", "Sandwiches"],
+    "imageUrl": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd",
+    "location": "Gachibowli",
+    "menus": [
+      {
+        "menuItem": "Fresh Garden Salad",
+        "price": 149,
+        "menuType": "Salads",
+        "description": "Fresh seasonal vegetables with a light dressing.",
+        "menuImageUrl": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd"
+      },
+      {
+        "menuItem": "Protein Power Bowl",
+        "price": 229,
+        "menuType": "Healthy Bowls",
+        "description": "Nutritious bowl with grains, vegetables and protein.",
+        "menuImageUrl": "https://images.unsplash.com/photo-1547592180-85f173990554"
+      }
+    ]
+  },
+  {
+    "restaurantName": "Royal Rajasthani Thali",
+    "rating": 4.5,
+    "menuTypes": ["Thali", "Rajasthani", "Breads", "Desserts"],
+    "imageUrl": "https://images.unsplash.com/photo-1546833999-b9f581a1996d",
+    "location": "Begumpet",
+    "menus": [
+      {
+        "menuItem": "Special Rajasthani Thali",
+        "price": 299,
+        "menuType": "Thali",
+        "description": "Traditional Rajasthani meal with curries, dal, rice and breads.",
+        "menuImageUrl": "https://images.unsplash.com/photo-1546833999-b9f581a1996d"
+      },
+      {
+        "menuItem": "Gatte Ki Sabzi",
+        "price": 169,
+        "menuType": "Rajasthani",
+        "description": "Traditional gram flour dumplings cooked in spiced yogurt gravy.",
+        "menuImageUrl": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7"
+      }
+    ]
+  },
+  {
+    "restaurantName": "Rolls & Wraps",
+    "rating": 4.1,
+    "menuTypes": ["Rolls", "Wraps", "Sandwiches", "Beverages"],
+    "imageUrl": "https://images.unsplash.com/photo-1626700051175-6818013e1d4f",
+    "location": "Kondapur",
+    "menus": [
+      {
+        "menuItem": "Paneer Kathi Roll",
+        "price": 129,
+        "menuType": "Rolls",
+        "description": "Soft flatbread filled with spicy paneer and fresh vegetables.",
+        "menuImageUrl": "https://images.unsplash.com/photo-1626700051175-6818013e1d4f"
+      },
+      {
+        "menuItem": "Chicken Shawarma Wrap",
+        "price": 179,
+        "menuType": "Wraps",
+        "description": "Juicy chicken wrapped with vegetables and creamy garlic sauce.",
+        "menuImageUrl": "https://images.unsplash.com/photo-1529006557810-274b9b2fc783"
+      }
+    ]
+  },
+  {
+    "restaurantName": "Coastal Spice",
+    "rating": 4.4,
+    "menuTypes": ["Seafood", "Fish Curry", "Prawns", "Rice"],
+    "imageUrl": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2",
+    "location": "Miyapur",
+    "menus": [
+      {
+        "menuItem": "Andhra Fish Curry",
+        "price": 249,
+        "menuType": "Fish Curry",
+        "description": "Traditional spicy fish curry prepared with coastal spices.",
+        "menuImageUrl": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2"
+      },
+      {
+        "menuItem": "Prawn Masala",
+        "price": 299,
+        "menuType": "Prawns",
+        "description": "Fresh prawns cooked in a rich and spicy masala gravy.",
+        "menuImageUrl": "https://images.unsplash.com/photo-1565680018434-b513d5e5fd47"
+      }
+    ]
+  },
+  {
+    "restaurantName": "Cafe Coffee Corner",
+    "rating": 4.2,
+    "menuTypes": ["Coffee", "Tea", "Snacks", "Desserts"],
+    "imageUrl": "https://images.unsplash.com/photo-1442512595331-e89e73853f31",
+    "location": "Jubilee Hills",
+    "menus": [
+      {
+        "menuItem": "Cold Coffee",
+        "price": 129,
+        "menuType": "Coffee",
+        "description": "Chilled creamy coffee blended with milk and ice.",
+        "menuImageUrl": "https://images.unsplash.com/photo-1461023058943-07fcbe16d735"
+      },
+      {
+        "menuItem": "Chocolate Brownie",
+        "price": 99,
+        "menuType": "Desserts",
+        "description": "Soft chocolate brownie with a rich chocolate flavor.",
+        "menuImageUrl": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c"
+      }
+    ]
+  }
+]

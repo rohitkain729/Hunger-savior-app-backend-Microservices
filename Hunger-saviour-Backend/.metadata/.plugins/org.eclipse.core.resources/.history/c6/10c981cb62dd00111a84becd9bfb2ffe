@@ -1,0 +1,45 @@
+package com.hunger.saviour.portal.entities;
+
+import java.util.List;
+import java.util.UUID;
+
+import jakarta.persistence.CollectionTable;
+import jakarta.persistence.Column;
+import jakarta.persistence.ElementCollection;
+import jakarta.persistence.Entity;
+import jakarta.persistence.GeneratedValue;
+import jakarta.persistence.GenerationType;
+import jakarta.persistence.Id;
+import jakarta.persistence.JoinColumn;
+import jakarta.persistence.Table;
+import lombok.AllArgsConstructor;
+import lombok.Builder;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
+@Entity
+@Data
+@AllArgsConstructor
+@NoArgsConstructor
+@Builder
+@Table(name = "restaurants")
+public class RestaurantEntity {
+
+	@Id
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
+	@Column(name = "restaurant_id")
+	private UUID restaurantId;
+	@Column(name = "restaurant_name")
+	private String restaurantName;
+	@Column(name = "restaurant_rating")
+	private String rating;
+	@Column(name = "restaurant_image_url")
+	private String imageURL;
+	@Column(name = "restaurant_location")
+	private String location;
+	@ElementCollection
+	@CollectionTable(name = "restaurant_entity_menu_types", joinColumns = @JoinColumn(name = "restaurant_id"))
+	@Column(name = "restaurant_menu_types")
+	private List<String> menuTypes;
+
+}

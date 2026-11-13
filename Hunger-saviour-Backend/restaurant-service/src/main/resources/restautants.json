@@ -1,0 +1,976 @@
+[
+  {
+    "restaurantName": "Box-8 Desi Meals",
+    "rating": 4.2,
+    "menuTypes": ["Soups", "Starters", "Biryani", "Curries", "Rice", "Breads"],
+    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c",
+    "location": "Saroor Nagar West",
+    "menus": [
+      {"menuItem":"Sweet Corn Chicken Soup","price":139,"menuType":"Soups","description":"Savory chicken soup with sweet corn.","menuItemImageUrl":"https://images.unsplash.com/photo-1547592180-85f173990554"},
+      {"menuItem":"Chicken Dum Biryani","price":249,"menuType":"Biryani","description":"Traditional chicken dum biryani with aromatic spices.","menuItemImageUrl":"https://images.unsplash.com/photo-1563379091339-03246963d96c"},
+      {"menuItem":"Mutton Biryani","price":329,"menuType":"Biryani","description":"Tender mutton cooked with fragrant basmati rice.","menuItemImageUrl":"https://images.unsplash.com/photo-1563379091339-03246963d96c"},
+      {"menuItem":"Paneer Tikka","price":199,"menuType":"Starters","description":"Grilled paneer with Indian spices.","menuItemImageUrl":"https://images.unsplash.com/photo-1599487488170-d11ec9c172f0"},
+      {"menuItem":"Chicken Tikka","price":229,"menuType":"Starters","description":"Juicy grilled chicken tikka.","menuItemImageUrl":"https://images.unsplash.com/photo-1599487488170-d11ec9c172f0"},
+      {"menuItem":"Butter Chicken","price":249,"menuType":"Curries","description":"Creamy tomato-based chicken curry.","menuItemImageUrl":"https://images.unsplash.com/photo-1603894584373-5ac82b2ae398"},
+      {"menuItem":"Paneer Butter Masala","price":219,"menuType":"Curries","description":"Soft paneer in rich buttery gravy.","menuItemImageUrl":"https://images.unsplash.com/photo-1631452180519-c014fe946bc7"},
+      {"menuItem":"Dal Makhani","price":179,"menuType":"Curries","description":"Slow-cooked black lentils with cream.","menuItemImageUrl":"https://images.unsplash.com/photo-1546833999-b9f581a1996d"},
+      {"menuItem":"Jeera Rice","price":119,"menuType":"Rice","description":"Fragrant basmati rice with cumin.","menuItemImageUrl":"https://images.unsplash.com/photo-1516684732162-798a0062be99"},
+      {"menuItem":"Veg Pulao","price":149,"menuType":"Rice","description":"Basmati rice cooked with vegetables.","menuItemImageUrl":"https://images.unsplash.com/photo-1512058564366-18510be2db19"},
+      {"menuItem":"Butter Naan","price":49,"menuType":"Breads","description":"Soft naan brushed with butter.","menuItemImageUrl":"https://images.unsplash.com/photo-1601050690597-df0568f70950"},
+      {"menuItem":"Tandoori Roti","price":35,"menuType":"Breads","description":"Traditional whole wheat tandoori roti.","menuItemImageUrl":"https://images.unsplash.com/photo-1601050690117-94f5f6fa8bd7"},
+      {"menuItem":"Gulab Jamun","price":79,"menuType":"Desserts","description":"Soft milk dumplings soaked in sweet syrup.","menuItemImageUrl":"https://images.unsplash.com/photo-1666190094762-5b4e1a0f3a7e"}
+    ]
+  },
+  {
+    "restaurantName": "Paradise Biryani",
+    "rating": 4.5,
+    "menuTypes": ["Biryani", "Starters", "Kebabs", "Curries", "Rice", "Desserts"],
+    "imageUrl": "https://images.unsplash.com/photo-1563379091339-03246963d96c",
+    "location": "Dilsukhnagar",
+    "menus": [
+      {"menuItem":"Hyderabadi Chicken Biryani","price":299,"menuType":"Biryani","description":"Authentic Hyderabadi chicken biryani.","menuItemImageUrl":"https://images.unsplash.com/photo-1563379091339-03246963d96c"},
+      {"menuItem":"Mutton Biryani","price":359,"menuType":"Biryani","description":"Slow-cooked mutton with fragrant rice.","menuItemImageUrl":"https://images.unsplash.com/photo-1563379091339-03246963d96c"},
+      {"menuItem":"Egg Biryani","price":219,"menuType":"Biryani","description":"Spiced rice served with boiled eggs.","menuItemImageUrl":"https://images.unsplash.com/photo-1563379091339-03246963d96c"},
+      {"menuItem":"Chicken Seekh Kebab","price":199,"menuType":"Kebabs","description":"Juicy minced chicken kebabs grilled with spices.","menuItemImageUrl":"https://images.unsplash.com/photo-1599487488170-d11ec9c172f0"},
+      {"menuItem":"Chicken 65","price":189,"menuType":"Starters","description":"Crispy spicy fried chicken pieces.","menuItemImageUrl":"https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec"},
+      {"menuItem":"Chicken Tikka","price":229,"menuType":"Starters","description":"Tender chicken grilled in Indian spices.","menuItemImageUrl":"https://images.unsplash.com/photo-1599487488170-d11ec9c172f0"},
+      {"menuItem":"Mutton Kebab","price":249,"menuType":"Kebabs","description":"Tender minced mutton kebabs.","menuItemImageUrl":"https://images.unsplash.com/photo-1599487488170-d11ec9c172f0"},
+      {"menuItem":"Mirchi Ka Salan","price":129,"menuType":"Curries","description":"Chillies cooked in peanut sesame gravy.","menuItemImageUrl":"https://images.unsplash.com/photo-1546833999-b9f581a1996d"},
+      {"menuItem":"Dal Tadka","price":139,"menuType":"Curries","description":"Yellow lentils tempered with Indian spices.","menuItemImageUrl":"https://images.unsplash.com/photo-1546833999-b9f581a1996d"},
+      {"menuItem":"Chicken Curry","price":249,"menuType":"Curries","description":"Homestyle chicken curry with spices.","menuItemImageUrl":"https://images.unsplash.com/photo-1603894584373-5ac82b2ae398"},
+      {"menuItem":"Plain Rice","price":99,"menuType":"Rice","description":"Steamed fragrant basmati rice.","menuItemImageUrl":"https://images.unsplash.com/photo-1516684732162-798a0062be99"},
+      {"menuItem":"Double Ka Meetha","price":129,"menuType":"Desserts","description":"Hyderabadi bread dessert with sweet syrup.","menuItemImageUrl":"https://images.unsplash.com/photo-1565958011703-44f9829ba187"},
+      {"menuItem":"Qubani Ka Meetha","price":149,"menuType":"Desserts","description":"Traditional apricot dessert with cream.","menuItemImageUrl":"https://images.unsplash.com/photo-1565958011703-44f9829ba187"}
+    ]
+  },
+  {
+    "restaurantName": "Pizza Paradise",
+    "rating": 4.3,
+    "menuTypes": ["Pizza", "Pasta", "Burgers", "Sides", "Beverages", "Desserts"],
+    "imageUrl": "https://images.unsplash.com/photo-1513104890138-7c749659a591",
+    "location": "LB Nagar",
+    "menus": [
+      {"menuItem":"Margherita Pizza","price":199,"menuType":"Pizza","description":"Classic mozzarella and basil pizza.","menuItemImageUrl":"https://images.unsplash.com/photo-1574071318508-1cdbab80d002"},
+      {"menuItem":"Farmhouse Pizza","price":299,"menuType":"Pizza","description":"Pizza loaded with fresh vegetables.","menuItemImageUrl":"https://images.unsplash.com/photo-1513104890138-7c749659a591"},
+      {"menuItem":"Pepperoni Pizza","price":349,"menuType":"Pizza","description":"Cheesy pizza topped with pepperoni.","menuItemImageUrl":"https://images.unsplash.com/photo-1565299624946-b28f40a0ae38"},
+      {"menuItem":"Chicken Tikka Pizza","price":329,"menuType":"Pizza","description":"Pizza topped with spicy chicken tikka.","menuItemImageUrl":"https://images.unsplash.com/photo-1565299624946-b28f40a0ae38"},
+      {"menuItem":"White Sauce Pasta","price":229,"menuType":"Pasta","description":"Creamy pasta in white sauce.","menuItemImageUrl":"https://images.unsplash.com/photo-1473093295043-cdd812d0e601"},
+      {"menuItem":"Arrabbiata Pasta","price":219,"menuType":"Pasta","description":"Pasta with spicy tomato sauce.","menuItemImageUrl":"https://images.unsplash.com/photo-1473093295043-cdd812d0e601"},
+      {"menuItem":"Chicken Alfredo","price":279,"menuType":"Pasta","description":"Creamy pasta with grilled chicken.","menuItemImageUrl":"https://images.unsplash.com/photo-1551183053-bf91a1d81141"},
+      {"menuItem":"Veg Burger","price":149,"menuType":"Burgers","description":"Crispy vegetable patty burger.","menuItemImageUrl":"https://images.unsplash.com/photo-1568901346375-23c9450c58cd"},
+      {"menuItem":"Chicken Burger","price":199,"menuType":"Burgers","description":"Grilled chicken burger with fresh vegetables.","menuItemImageUrl":"https://images.unsplash.com/photo-1568901346375-23c9450c58cd"},
+      {"menuItem":"French Fries","price":99,"menuType":"Sides","description":"Crispy golden potato fries.","menuItemImageUrl":"https://images.unsplash.com/photo-1573080496219-bb080dd4f877"},
+      {"menuItem":"Garlic Bread","price":129,"menuType":"Sides","description":"Toasted bread with garlic butter.","menuItemImageUrl":"https://images.unsplash.com/photo-1573140247632-f8fd74997d5c"},
+      {"menuItem":"Cold Coffee","price":129,"menuType":"Beverages","description":"Chilled creamy coffee.","menuItemImageUrl":"https://images.unsplash.com/photo-1461023058943-07fcbe16d735"},
+      {"menuItem":"Chocolate Brownie","price":119,"menuType":"Desserts","description":"Rich soft chocolate brownie.","menuItemImageUrl":"https://images.unsplash.com/photo-1606313564200-e75d5e30476c"}
+    ]
+  },
+  {
+    "restaurantName": "Burger Junction",
+    "rating": 4.1,
+    "menuTypes": ["Burgers", "Sandwiches", "Fries", "Wings", "Beverages", "Desserts"],
+    "imageUrl": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd",
+    "location": "Kothapet",
+    "menus": [
+      {"menuItem":"Classic Veg Burger","price":99,"menuType":"Burgers","description":"Fresh vegetable patty with lettuce and sauce.","menuItemImageUrl":"https://images.unsplash.com/photo-1568901346375-23c9450c58cd"},
+      {"menuItem":"Double Cheese Burger","price":179,"menuType":"Burgers","description":"Double cheese burger with crispy patty.","menuItemImageUrl":"https://images.unsplash.com/photo-1553979459-d2229ba7433a"},
+      {"menuItem":"Chicken Burger","price":189,"menuType":"Burgers","description":"Juicy chicken patty with cheese.","menuItemImageUrl":"https://images.unsplash.com/photo-1568901346375-23c9450c58cd"},
+      {"menuItem":"Spicy Chicken Burger","price":199,"menuType":"Burgers","description":"Spicy crispy chicken burger.","menuItemImageUrl":"https://images.unsplash.com/photo-1568901346375-23c9450c58cd"},
+      {"menuItem":"Paneer Burger","price":169,"menuType":"Burgers","description":"Grilled paneer burger with fresh vegetables.","menuItemImageUrl":"https://images.unsplash.com/photo-1568901346375-23c9450c58cd"},
+      {"menuItem":"Veg Club Sandwich","price":149,"menuType":"Sandwiches","description":"Layered sandwich with fresh vegetables.","menuItemImageUrl":"https://images.unsplash.com/photo-1528735602780-2552fd46c7af"},
+      {"menuItem":"Chicken Sandwich","price":179,"menuType":"Sandwiches","description":"Chicken sandwich with creamy dressing.","menuItemImageUrl":"https://images.unsplash.com/photo-1528735602780-2552fd46c7af"},
+      {"menuItem":"French Fries","price":89,"menuType":"Fries","description":"Crispy golden fries.","menuItemImageUrl":"https://images.unsplash.com/photo-1573080496219-bb080dd4f877"},
+      {"menuItem":"Peri Peri Fries","price":119,"menuType":"Fries","description":"Fries tossed with peri peri seasoning.","menuItemImageUrl":"https://images.unsplash.com/photo-1573080496219-bb080dd4f877"},
+      {"menuItem":"Chicken Wings","price":199,"menuType":"Wings","description":"Crispy chicken wings with sauce.","menuItemImageUrl":"https://images.unsplash.com/photo-1527477396000-e27163b481c2"},
+      {"menuItem":"Chicken Nuggets","price":159,"menuType":"Starters","description":"Crispy bite-sized chicken nuggets.","menuItemImageUrl":"https://images.unsplash.com/photo-1562967916-eb82221dfb92"},
+      {"menuItem":"Cold Coffee","price":119,"menuType":"Beverages","description":"Creamy chilled coffee.","menuItemImageUrl":"https://images.unsplash.com/photo-1461023058943-07fcbe16d735"},
+      {"menuItem":"Chocolate Shake","price":149,"menuType":"Beverages","description":"Thick chocolate milkshake.","menuItemImageUrl":"https://images.unsplash.com/photo-1572490122747-3968b75cc699"}
+    ]
+  },
+  {
+    "restaurantName": "South Indian Kitchen",
+    "rating": 4.4,
+    "menuTypes": ["Dosa", "Idli", "Vada", "Meals", "Rice", "Beverages"],
+    "imageUrl": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
+    "location": "Malakpet",
+    "menus": [
+      {"menuItem":"Masala Dosa","price":89,"menuType":"Dosa","description":"Crispy dosa stuffed with potato masala.","menuItemImageUrl":"https://images.unsplash.com/photo-1589301760014-d929f3979dbc"},
+      {"menuItem":"Plain Dosa","price":69,"menuType":"Dosa","description":"Crispy traditional South Indian dosa.","menuItemImageUrl":"https://images.unsplash.com/photo-1589301760014-d929f3979dbc"},
+      {"menuItem":"Mysore Masala Dosa","price":119,"menuType":"Dosa","description":"Spicy Mysore dosa with potato filling.","menuItemImageUrl":"https://images.unsplash.com/photo-1589301760014-d929f3979dbc"},
+      {"menuItem":"Cheese Dosa","price":139,"menuType":"Dosa","description":"Crispy dosa filled with melted cheese.","menuItemImageUrl":"https://images.unsplash.com/photo-1589301760014-d929f3979dbc"},
+      {"menuItem":"Idli Sambar","price":59,"menuType":"Idli","description":"Soft idlis served with hot sambar.","menuItemImageUrl":"https://images.unsplash.com/photo-1589301760014-d929f3979dbc"},
+      {"menuItem":"Mini Idli","price":69,"menuType":"Idli","description":"Small soft idlis with sambar.","menuItemImageUrl":"https://images.unsplash.com/photo-1589301760014-d929f3979dbc"},
+      {"menuItem":"Medu Vada","price":69,"menuType":"Vada","description":"Crispy lentil fritters served with chutney.","menuItemImageUrl":"https://images.unsplash.com/photo-1589301760014-d929f3979dbc"},
+      {"menuItem":"Vada Sambar","price":79,"menuType":"Vada","description":"Crispy vada with flavorful sambar.","menuItemImageUrl":"https://images.unsplash.com/photo-1589301760014-d929f3979dbc"},
+      {"menuItem":"South Indian Meals","price":149,"menuType":"Meals","description":"Complete traditional South Indian meal.","menuItemImageUrl":"https://images.unsplash.com/photo-1546833999-b9f581a1996d"},
+      {"menuItem":"Curd Rice","price":89,"menuType":"Rice","description":"Cooling rice mixed with seasoned yogurt.","menuItemImageUrl":"https://images.unsplash.com/photo-1516684732162-798a0062be99"},
+      {"menuItem":"Lemon Rice","price":89,"menuType":"Rice","description":"Tangy rice flavored with lemon and spices.","menuItemImageUrl":"https://images.unsplash.com/photo-1516684732162-798a0062be99"},
+      {"menuItem":"Filter Coffee","price":49,"menuType":"Beverages","description":"Traditional South Indian filter coffee.","menuItemImageUrl":"https://images.unsplash.com/photo-1495474472287-4d71bcdd2085"},
+      {"menuItem":"Masala Tea","price":39,"menuType":"Beverages","description":"Hot Indian tea with aromatic spices.","menuItemImageUrl":"https://images.unsplash.com/photo-1544787219-7f47ccb76574"}
+    ]
+  },
+  {
+    "restaurantName": "The Chinese Wok",
+    "rating": 4.0,
+    "menuTypes": ["Noodles", "Fried Rice", "Manchurian", "Starters", "Momos", "Soups"],
+    "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19",
+    "location": "Madhapur",
+    "menus": [
+      {"menuItem":"Veg Hakka Noodles","price":149,"menuType":"Noodles","description":"Stir-fried noodles with fresh vegetables.","menuItemImageUrl":"https://images.unsplash.com/photo-1512058564366-18510be2db19"},
+      {"menuItem":"Chicken Hakka Noodles","price":189,"menuType":"Noodles","description":"Noodles tossed with chicken and vegetables.","menuItemImageUrl":"https://images.unsplash.com/photo-1512058564366-18510be2db19"},
+      {"menuItem":"Schezwan Noodles","price":169,"menuType":"Noodles","description":"Spicy noodles with Schezwan sauce.","menuItemImageUrl":"https://images.unsplash.com/photo-1512058564366-18510be2db19"},
+      {"menuItem":"Chicken Fried Rice","price":189,"menuType":"Fried Rice","description":"Chinese-style fried rice with chicken.","menuItemImageUrl":"https://images.unsplash.com/photo-1603133872878-684f208fb84b"},
+      {"menuItem":"Veg Fried Rice","price":149,"menuType":"Fried Rice","description":"Fried rice with fresh vegetables.","menuItemImageUrl":"https://images.unsplash.com/photo-1603133872878-684f208fb84b"},
+      {"menuItem":"Schezwan Fried Rice","price":169,"menuType":"Fried Rice","description":"Spicy fried rice with Schezwan sauce.","menuItemImageUrl":"https://images.unsplash.com/photo-1603133872878-684f208fb84b"},
+      {"menuItem":"Veg Manchurian","price":159,"menuType":"Manchurian","description":"Vegetable balls in spicy Manchurian sauce.","menuItemImageUrl":"https://images.unsplash.com/photo-1512058564366-18510be2db19"},
+      {"menuItem":"Chicken Manchurian","price":199,"menuType":"Manchurian","description":"Chicken pieces tossed in Manchurian sauce.","menuItemImageUrl":"https://images.unsplash.com/photo-1512058564366-18510be2db19"},
+      {"menuItem":"Chicken Momos","price":159,"menuType":"Momos","description":"Steamed dumplings filled with chicken.","menuItemImageUrl":"https://images.unsplash.com/photo-1625220194771-7ebdea0b70b9"},
+      {"menuItem":"Veg Momos","price":129,"menuType":"Momos","description":"Steamed vegetable dumplings.","menuItemImageUrl":"https://images.unsplash.com/photo-1625220194771-7ebdea0b70b9"},
+      {"menuItem":"Hot and Sour Soup","price":119,"menuType":"Soups","description":"Spicy and tangy Chinese soup.","menuItemImageUrl":"https://images.unsplash.com/photo-1547592180-85f173990554"},
+      {"menuItem":"Sweet Corn Soup","price":109,"menuType":"Soups","description":"Creamy sweet corn soup with vegetables.","menuItemImageUrl":"https://images.unsplash.com/photo-1547592180-85f173990554"},
+      {"menuItem":"Chilli Chicken","price":219,"menuType":"Starters","description":"Crispy chicken tossed with chillies and sauces.","menuItemImageUrl":"https://images.unsplash.com/photo-1512058564366-18510be2db19"}
+    ]
+  },
+  {
+    "restaurantName": "Punjabi Tadka",
+    "rating": 4.3,
+    "menuTypes": ["North Indian", "Curries", "Roti", "Thali", "Starters"],
+    "imageUrl": "https://images.unsplash.com/photo-1546833999-b9f581a1996d",
+    "location": "Ameerpet",
+    "menus": [
+      {"menuItem":"Paneer Butter Masala","price":219,"menuType":"Curries","description":"Paneer cubes in rich buttery tomato gravy.","menuItemImageUrl":"https://images.unsplash.com/photo-1631452180519-c014fe946bc7"},
+      {"menuItem":"Dal Makhani","price":179,"menuType":"Curries","description":"Slow-cooked black lentils with cream.","menuItemImageUrl":"https://images.unsplash.com/photo-1546833999-b9f581a1996d"},
+      {"menuItem":"Shahi Paneer","price":229,"menuType":"Curries","description":"Paneer cooked in creamy royal gravy.","menuItemImageUrl":"https://images.unsplash.com/photo-1631452180519-c014fe946bc7"},
+      {"menuItem":"Chole Masala","price":159,"menuType":"Curries","description":"Chickpeas cooked in Punjabi spices.","menuItemImageUrl":"https://images.unsplash.com/photo-1546833999-b9f581a1996d"},
+      {"menuItem":"Rajma Masala","price":159,"menuType":"Curries","description":"Red kidney beans in spiced tomato gravy.","menuItemImageUrl":"https://images.unsplash.com/photo-1546833999-b9f581a1996d"},
+      {"menuItem":"Butter Chicken","price":249,"menuType":"Curries","description":"Tender chicken in creamy tomato gravy.","menuItemImageUrl":"https://images.unsplash.com/photo-1603894584373-5ac82b2ae398"},
+      {"menuItem":"Chicken Tikka","price":229,"menuType":"Starters","description":"Chargrilled chicken marinated in spices.","menuItemImageUrl":"https://images.unsplash.com/photo-1599487488170-d11ec9c172f0"},
+      {"menuItem":"Paneer Tikka","price":199,"menuType":"Starters","description":"Grilled paneer with aromatic spices.","menuItemImageUrl":"https://images.unsplash.com/photo-1599487488170-d11ec9c172f0"},
+      {"menuItem":"Tandoori Roti","price":35,"menuType":"Roti","description":"Traditional whole wheat tandoori roti.","menuItemImageUrl":"https://images.unsplash.com/photo-1601050690117-94f5f6fa8bd7"},
+      {"menuItem":"Butter Naan","price":49,"menuType":"Roti","description":"Soft naan with melted butter.","menuItemImageUrl":"https://images.unsplash.com/photo-1601050690597-df0568f70950"},
+      {"menuItem":"Garlic Naan","price":69,"menuType":"Roti","description":"Naan topped with garlic and coriander.","menuItemImageUrl":"https://images.unsplash.com/photo-1601050690597-df0568f70950"},
+      {"menuItem":"Punjabi Thali","price":249,"menuType":"Thali","description":"Complete Punjabi meal with curry, dal and breads.","menuItemImageUrl":"https://images.unsplash.com/photo-1546833999-b9f581a1996d"},
+      {"menuItem":"Gulab Jamun","price":79,"menuType":"Desserts","description":"Sweet milk dumplings in sugar syrup.","menuItemImageUrl":"https://images.unsplash.com/photo-1565958011703-44f9829ba187"}
+    ]
+  },
+  {
+    "restaurantName": "Fried Chicken House",
+    "rating": 4.2,
+    "menuTypes": ["Fried Chicken", "Burgers", "Wings", "Combos", "Sides"],
+    "imageUrl": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec",
+    "location": "Kukatpally",
+    "menus": [
+      {"menuItem":"Crispy Chicken Bucket","price":349,"menuType":"Fried Chicken","description":"Golden crispy fried chicken pieces.","menuItemImageUrl":"https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec"},
+      {"menuItem":"Spicy Chicken Wings","price":199,"menuType":"Wings","description":"Chicken wings tossed in spicy sauce.","menuItemImageUrl":"https://images.unsplash.com/photo-1527477396000-e27163b481c2"},
+      {"menuItem":"Chicken Popcorn","price":179,"menuType":"Fried Chicken","description":"Small crispy chicken bites.","menuItemImageUrl":"https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec"},
+      {"menuItem":"Chicken Strips","price":189,"menuType":"Fried Chicken","description":"Crispy strips of seasoned chicken.","menuItemImageUrl":"https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec"},
+      {"menuItem":"Classic Chicken Burger","price":199,"menuType":"Burgers","description":"Crispy chicken burger with lettuce.","menuItemImageUrl":"https://images.unsplash.com/photo-1568901346375-23c9450c58cd"},
+      {"menuItem":"Spicy Chicken Burger","price":219,"menuType":"Burgers","description":"Crispy chicken burger with spicy sauce.","menuItemImageUrl":"https://images.unsplash.com/photo-1568901346375-23c9450c58cd"},
+      {"menuItem":"Chicken Cheese Burger","price":239,"menuType":"Burgers","description":"Chicken burger topped with melted cheese.","menuItemImageUrl":"https://images.unsplash.com/photo-1553979459-d2229ba7433a"},
+      {"menuItem":"French Fries","price":89,"menuType":"Sides","description":"Crispy golden potato fries.","menuItemImageUrl":"https://images.unsplash.com/photo-1573080496219-bb080dd4f877"},
+      {"menuItem":"Peri Peri Fries","price":109,"menuType":"Sides","description":"Fries with spicy peri peri seasoning.","menuItemImageUrl":"https://images.unsplash.com/photo-1573080496219-bb080dd4f877"},
+      {"menuItem":"Chicken Nuggets","price":159,"menuType":"Sides","description":"Crispy bite-sized chicken nuggets.","menuItemImageUrl":"https://images.unsplash.com/photo-1562967916-eb82221dfb92"},
+      {"menuItem":"Chicken Combo","price":399,"menuType":"Combos","description":"Chicken pieces with fries and drink.","menuItemImageUrl":"https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec"},
+      {"menuItem":"Family Chicken Bucket","price":699,"menuType":"Combos","description":"Large bucket perfect for sharing.","menuItemImageUrl":"https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec"},
+      {"menuItem":"Chocolate Shake","price":149,"menuType":"Beverages","description":"Thick creamy chocolate shake.","menuItemImageUrl":"https://images.unsplash.com/photo-1572490122747-3968b75cc699"}
+    ]
+  },
+  {
+    "restaurantName": "Tandoori Treats",
+    "rating": 4.4,
+    "menuTypes": ["Tandoori", "Kebabs", "Starters", "Curries", "Breads"],
+    "imageUrl": "https://images.unsplash.com/photo-1599487488170-d11ec9c172f0",
+    "location": "Mehdipatnam",
+    "menus": [
+      {"menuItem":"Tandoori Chicken","price":299,"menuType":"Tandoori","description":"Chicken marinated in yogurt and spices.","menuItemImageUrl":"https://images.unsplash.com/photo-1599487488170-d11ec9c172f0"},
+      {"menuItem":"Chicken Malai Kebab","price":249,"menuType":"Kebabs","description":"Creamy chicken kebabs with mild spices.","menuItemImageUrl":"https://images.unsplash.com/photo-1599307767316-776533bb941c"},
+      {"menuItem":"Chicken Seekh Kebab","price":229,"menuType":"Kebabs","description":"Minced chicken kebabs cooked in tandoor.","menuItemImageUrl":"https://images.unsplash.com/photo-1599487488170-d11ec9c172f0"},
+      {"menuItem":"Mutton Seekh Kebab","price":279,"menuType":"Kebabs","description":"Spiced minced mutton kebabs.","menuItemImageUrl":"https://images.unsplash.com/photo-1599487488170-d11ec9c172f0"},
+      {"menuItem":"Paneer Tikka","price":199,"menuType":"Starters","description":"Chargrilled paneer with spices.","menuItemImageUrl":"https://images.unsplash.com/photo-1599487488170-d11ec9c172f0"},
+      {"menuItem":"Chicken Tikka","price":229,"menuType":"Starters","description":"Tender grilled chicken pieces.","menuItemImageUrl":"https://images.unsplash.com/photo-1599487488170-d11ec9c172f0"},
+      {"menuItem":"Tandoori Fish","price":299,"menuType":"Tandoori","description":"Fish marinated and roasted in tandoor.","menuItemImageUrl":"https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2"},
+      {"menuItem":"Butter Chicken","price":249,"menuType":"Curries","description":"Creamy chicken curry with tomato gravy.","menuItemImageUrl":"https://images.unsplash.com/photo-1603894584373-5ac82b2ae398"},
+      {"menuItem":"Mutton Rogan Josh","price":299,"menuType":"Curries","description":"Slow-cooked mutton in aromatic gravy.","menuItemImageUrl":"https://images.unsplash.com/photo-1546833999-b9f581a1996d"},
+      {"menuItem":"Paneer Tikka Masala","price":229,"menuType":"Curries","description":"Paneer cooked in smoky tomato gravy.","menuItemImageUrl":"https://images.unsplash.com/photo-1631452180519-c014fe946bc7"},
+      {"menuItem":"Butter Naan","price":49,"menuType":"Breads","description":"Soft naan brushed with butter.","menuItemImageUrl":"https://images.unsplash.com/photo-1601050690597-df0568f70950"},
+      {"menuItem":"Garlic Naan","price":69,"menuType":"Breads","description":"Garlic flavored tandoori naan.","menuItemImageUrl":"https://images.unsplash.com/photo-1601050690597-df0568f70950"},
+      {"menuItem":"Rumali Roti","price":39,"menuType":"Breads","description":"Thin soft handkerchief-style bread.","menuItemImageUrl":"https://images.unsplash.com/photo-1601050690117-94f5f6fa8bd7"}
+    ]
+  },
+  {
+    "restaurantName": "Sweet Cravings",
+    "rating": 4.6,
+    "menuTypes": ["Cakes", "Ice Cream", "Desserts", "Pastries", "Shakes"],
+    "imageUrl": "https://images.unsplash.com/photo-1565958011703-44f9829ba187",
+    "location": "Himayatnagar",
+    "menus": [
+      {"menuItem":"Chocolate Truffle Cake","price":399,"menuType":"Cakes","description":"Rich chocolate cake with chocolate ganache.","menuItemImageUrl":"https://images.unsplash.com/photo-1578985545062-69928b1d9587"},
+      {"menuItem":"Black Forest Cake","price":379,"menuType":"Cakes","description":"Chocolate sponge with cream and cherries.","menuItemImageUrl":"https://images.unsplash.com/photo-1578985545062-69928b1d9587"},
+      {"menuItem":"Red Velvet Cake","price":429,"menuType":"Cakes","description":"Soft red velvet cake with cream cheese frosting.","menuItemImageUrl":"https://images.unsplash.com/photo-1586788224331-947f68671cf1"},
+      {"menuItem":"Vanilla Cake","price":349,"menuType":"Cakes","description":"Classic vanilla sponge cake.","menuItemImageUrl":"https://images.unsplash.com/photo-1578985545062-69928b1d9587"},
+      {"menuItem":"Chocolate Pastry","price":99,"menuType":"Pastries","description":"Soft chocolate pastry with cream.","menuItemImageUrl":"https://images.unsplash.com/photo-1565958011703-44f9829ba187"},
+      {"menuItem":"Pineapple Pastry","price":89,"menuType":"Pastries","description":"Light pastry with pineapple filling.","menuItemImageUrl":"https://images.unsplash.com/photo-1565958011703-44f9829ba187"},
+      {"menuItem":"Vanilla Ice Cream","price":89,"menuType":"Ice Cream","description":"Classic creamy vanilla ice cream.","menuItemImageUrl":"https://images.unsplash.com/photo-1563805042-7684c019e1cb"},
+      {"menuItem":"Chocolate Ice Cream","price":99,"menuType":"Ice Cream","description":"Rich creamy chocolate ice cream.","menuItemImageUrl":"https://images.unsplash.com/photo-1563805042-7684c019e1cb"},
+      {"menuItem":"Strawberry Ice Cream","price":99,"menuType":"Ice Cream","description":"Fresh strawberry flavored ice cream.","menuItemImageUrl":"https://images.unsplash.com/photo-1563805042-7684c019e1cb"},
+      {"menuItem":"Chocolate Brownie","price":119,"menuType":"Desserts","description":"Soft and rich chocolate brownie.","menuItemImageUrl":"https://images.unsplash.com/photo-1606313564200-e75d5e30476c"},
+      {"menuItem":"Chocolate Mousse","price":139,"menuType":"Desserts","description":"Smooth creamy chocolate mousse.","menuItemImageUrl":"https://images.unsplash.com/photo-1565958011703-44f9829ba187"},
+      {"menuItem":"Oreo Shake","price":169,"menuType":"Shakes","description":"Creamy shake blended with Oreo cookies.","menuItemImageUrl":"https://images.unsplash.com/photo-1572490122747-3968b75cc699"},
+      {"menuItem":"Chocolate Shake","price":159,"menuType":"Shakes","description":"Thick chocolate milkshake.","menuItemImageUrl":"https://images.unsplash.com/photo-1572490122747-3968b75cc699"}
+    ]
+  },
+  {
+    "restaurantName": "Healthy Bowl",
+    "rating": 4.3,
+    "menuTypes": ["Salads", "Healthy Bowls", "Juices", "Sandwiches", "Smoothies"],
+    "imageUrl": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd",
+    "location": "Gachibowli",
+    "menus": [
+      {"menuItem":"Fresh Garden Salad","price":149,"menuType":"Salads","description":"Fresh seasonal vegetables with light dressing.","menuItemImageUrl":"https://images.unsplash.com/photo-1512621776951-a57141f2eefd"},
+      {"menuItem":"Greek Salad","price":179,"menuType":"Salads","description":"Fresh vegetables with feta and olives.","menuItemImageUrl":"https://images.unsplash.com/photo-1512621776951-a57141f2eefd"},
+      {"menuItem":"Chicken Caesar Salad","price":229,"menuType":"Salads","description":"Chicken salad with lettuce and creamy dressing.","menuItemImageUrl":"https://images.unsplash.com/photo-1512621776951-a57141f2eefd"},
+      {"menuItem":"Protein Power Bowl","price":229,"menuType":"Healthy Bowls","description":"Grains, vegetables and protein in one bowl.","menuItemImageUrl":"https://images.unsplash.com/photo-1547592180-85f173990554"},
+      {"menuItem":"Quinoa Veg Bowl","price":219,"menuType":"Healthy Bowls","description":"Healthy quinoa with fresh vegetables.","menuItemImageUrl":"https://images.unsplash.com/photo-1547592180-85f173990554"},
+      {"menuItem":"Chicken Protein Bowl","price":259,"menuType":"Healthy Bowls","description":"Grilled chicken with grains and vegetables.","menuItemImageUrl":"https://images.unsplash.com/photo-1547592180-85f173990554"},
+      {"menuItem":"Avocado Toast","price":189,"menuType":"Sandwiches","description":"Whole grain toast with creamy avocado.","menuItemImageUrl":"https://images.unsplash.com/photo-1541519227354-08fa5d50c44d"},
+      {"menuItem":"Veg Sandwich","price":149,"menuType":"Sandwiches","description":"Healthy sandwich with fresh vegetables.","menuItemImageUrl":"https://images.unsplash.com/photo-1528735602780-2552fd46c7af"},
+      {"menuItem":"Chicken Sandwich","price":199,"menuType":"Sandwiches","description":"Grilled chicken sandwich with vegetables.","menuItemImageUrl":"https://images.unsplash.com/photo-1528735602780-2552fd46c7af"},
+      {"menuItem":"Orange Juice","price":99,"menuType":"Juices","description":"Freshly squeezed orange juice.","menuItemImageUrl":"https://images.unsplash.com/photo-1600271886742-f049cd451bba"},
+      {"menuItem":"Watermelon Juice","price":89,"menuType":"Juices","description":"Refreshing fresh watermelon juice.","menuItemImageUrl":"https://images.unsplash.com/photo-1622597467836-f3285f2131b8"},
+      {"menuItem":"Mango Smoothie","price":149,"menuType":"Smoothies","description":"Creamy smoothie made with ripe mango.","menuItemImageUrl":"https://images.unsplash.com/photo-1553530666-ba11a7da3888"},
+      {"menuItem":"Berry Smoothie","price":169,"menuType":"Smoothies","description":"Mixed berry smoothie with yogurt.","menuItemImageUrl":"https://images.unsplash.com/photo-1553530666-ba11a7da3888"}
+    ]
+  },
+  {
+    "restaurantName": "Royal Rajasthani Thali",
+    "rating": 4.5,
+    "menuTypes": ["Thali", "Rajasthani", "Breads", "Desserts", "Curries"],
+    "imageUrl": "https://images.unsplash.com/photo-1546833999-b9f581a1996d",
+    "location": "Begumpet",
+    "menus": [
+      {"menuItem":"Special Rajasthani Thali","price":299,"menuType":"Thali","description":"Traditional Rajasthani meal with curries and breads.","menuItemImageUrl":"https://images.unsplash.com/photo-1546833999-b9f581a1996d"},
+      {"menuItem":"Mini Rajasthani Thali","price":219,"menuType":"Thali","description":"Compact traditional Rajasthani meal.","menuItemImageUrl":"https://images.unsplash.com/photo-1546833999-b9f581a1996d"},
+      {"menuItem":"Gatte Ki Sabzi","price":169,"menuType":"Rajasthani","description":"Gram flour dumplings in spiced yogurt gravy.","menuItemImageUrl":"https://images.unsplash.com/photo-1631452180519-c014fe946bc7"},
+      {"menuItem":"Dal Baati Churma","price":249,"menuType":"Rajasthani","description":"Classic Rajasthani dal with baati and churma.","menuItemImageUrl":"https://images.unsplash.com/photo-1546833999-b9f581a1996d"},
+      {"menuItem":"Ker Sangri","price":179,"menuType":"Rajasthani","description":"Traditional desert vegetable preparation.","menuItemImageUrl":"https://images.unsplash.com/photo-1546833999-b9f581a1996d"},
+      {"menuItem":"Bajra Roti","price":49,"menuType":"Breads","description":"Traditional millet flatbread.","menuItemImageUrl":"https://images.unsplash.com/photo-1601050690117-94f5f6fa8bd7"},
+      {"menuItem":"Missi Roti","price":49,"menuType":"Breads","description":"Spiced gram flour wheat bread.","menuItemImageUrl":"https://images.unsplash.com/photo-1601050690117-94f5f6fa8bd7"},
+      {"menuItem":"Garlic Naan","price":69,"menuType":"Breads","description":"Soft naan with garlic and coriander.","menuItemImageUrl":"https://images.unsplash.com/photo-1601050690597-df0568f70950"},
+      {"menuItem":"Dal Tadka","price":139,"menuType":"Curries","description":"Yellow lentils tempered with spices.","menuItemImageUrl":"https://images.unsplash.com/photo-1546833999-b9f581a1996d"},
+      {"menuItem":"Paneer Curry","price":199,"menuType":"Curries","description":"Paneer cooked in aromatic Indian gravy.","menuItemImageUrl":"https://images.unsplash.com/photo-1631452180519-c014fe946bc7"},
+      {"menuItem":"Gulab Jamun","price":79,"menuType":"Desserts","description":"Soft milk dumplings in sugar syrup.","menuItemImageUrl":"https://images.unsplash.com/photo-1565958011703-44f9829ba187"},
+      {"menuItem":"Malpua","price":119,"menuType":"Desserts","description":"Sweet Indian pancakes served with syrup.","menuItemImageUrl":"https://images.unsplash.com/photo-1565958011703-44f9829ba187"},
+      {"menuItem":"Rabri","price":129,"menuType":"Desserts","description":"Thickened sweet milk with nuts.","menuItemImageUrl":"https://images.unsplash.com/photo-1565958011703-44f9829ba187"}
+    ]
+  },
+  {
+    "restaurantName": "Rolls & Wraps",
+    "rating": 4.1,
+    "menuTypes": ["Rolls", "Wraps", "Sandwiches", "Beverages"],
+    "imageUrl": "https://images.unsplash.com/photo-1626700051175-6818013e1d4f",
+    "location": "Kondapur",
+    "menus": [
+      {"menuItem":"Paneer Kathi Roll","price":129,"menuType":"Rolls","description":"Spicy paneer wrapped in soft flatbread.","menuItemImageUrl":"https://images.unsplash.com/photo-1626700051175-6818013e1d4f"},
+      {"menuItem":"Chicken Kathi Roll","price":169,"menuType":"Rolls","description":"Spiced chicken wrapped in flatbread.","menuItemImageUrl":"https://images.unsplash.com/photo-1626700051175-6818013e1d4f"},
+      {"menuItem":"Egg Kathi Roll","price":119,"menuType":"Rolls","description":"Egg and vegetables wrapped in flatbread.","menuItemImageUrl":"https://images.unsplash.com/photo-1626700051175-6818013e1d4f"},
+      {"menuItem":"Double Chicken Roll","price":199,"menuType":"Rolls","description":"Loaded roll with double chicken filling.","menuItemImageUrl":"https://images.unsplash.com/photo-1626700051175-6818013e1d4f"},
+      {"menuItem":"Chicken Shawarma Wrap","price":179,"menuType":"Wraps","description":"Juicy chicken with garlic sauce and vegetables.","menuItemImageUrl":"https://images.unsplash.com/photo-1529006557810-274b9b2fc783"},
+      {"menuItem":"Paneer Shawarma Wrap","price":159,"menuType":"Wraps","description":"Paneer with vegetables and creamy sauce.","menuItemImageUrl":"https://images.unsplash.com/photo-1529006557810-274b9b2fc783"},
+      {"menuItem":"Falafel Wrap","price":149,"menuType":"Wraps","description":"Crispy falafel with fresh vegetables.","menuItemImageUrl":"https://images.unsplash.com/photo-1529006557810-274b9b2fc783"},
+      {"menuItem":"Veg Sandwich","price":109,"menuType":"Sandwiches","description":"Fresh vegetable sandwich with sauce.","menuItemImageUrl":"https://images.unsplash.com/photo-1528735602780-2552fd46c7af"},
+      {"menuItem":"Chicken Sandwich","price":159,"menuType":"Sandwiches","description":"Chicken sandwich with creamy dressing.","menuItemImageUrl":"https://images.unsplash.com/photo-1528735602780-2552fd46c7af"},
+      {"menuItem":"Cheese Sandwich","price":129,"menuType":"Sandwiches","description":"Toasted sandwich loaded with cheese.","menuItemImageUrl":"https://images.unsplash.com/photo-1528735602780-2552fd46c7af"},
+      {"menuItem":"Cold Coffee","price":119,"menuType":"Beverages","description":"Chilled creamy coffee.","menuItemImageUrl":"https://images.unsplash.com/photo-1461023058943-07fcbe16d735"},
+      {"menuItem":"Lemon Soda","price":69,"menuType":"Beverages","description":"Refreshing lemon soda.","menuItemImageUrl":"https://images.unsplash.com/photo-1513558161293-cdaf765ed2fd"},
+      {"menuItem":"Mango Shake","price":139,"menuType":"Beverages","description":"Creamy mango milkshake.","menuItemImageUrl":"https://images.unsplash.com/photo-1553530666-ba11a7da3888"}
+    ]
+  },
+  {
+    "restaurantName": "Coastal Spice",
+    "rating": 4.4,
+    "menuTypes": ["Seafood", "Fish Curry", "Prawns", "Rice", "Starters"],
+    "imageUrl": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2",
+    "location": "Miyapur",
+    "menus": [
+      {"menuItem":"Andhra Fish Curry","price":249,"menuType":"Fish Curry","description":"Spicy fish curry with coastal spices.","menuItemImageUrl":"https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2"},
+      {"menuItem":"Prawn Masala","price":299,"menuType":"Prawns","description":"Fresh prawns in rich spicy masala.","menuItemImageUrl":"https://images.unsplash.com/photo-1565680018434-b513d5e5fd47"},
+      {"menuItem":"Prawn Fry","price":319,"menuType":"Prawns","description":"Crispy prawns fried with spices.","menuItemImageUrl":"https://images.unsplash.com/photo-1565680018434-b513d5e5fd47"},
+      {"menuItem":"Fish Fry","price":279,"menuType":"Seafood","description":"Spiced fish fillets fried until crispy.","menuItemImageUrl":"https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2"},
+      {"menuItem":"Fish Tikka","price":289,"menuType":"Seafood","description":"Grilled fish marinated in Indian spices.","menuItemImageUrl":"https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2"},
+      {"menuItem":"Prawn Curry","price":309,"menuType":"Prawns","description":"Prawns cooked in coconut-spice gravy.","menuItemImageUrl":"https://images.unsplash.com/photo-1565680018434-b513d5e5fd47"},
+      {"menuItem":"Crab Masala","price":399,"menuType":"Seafood","description":"Crab cooked with coastal masala.","menuItemImageUrl":"https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2"},
+      {"menuItem":"Chicken Fry","price":229,"menuType":"Starters","description":"Spicy Andhra-style chicken fry.","menuItemImageUrl":"https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec"},
+      {"menuItem":"Lemon Rice","price":99,"menuType":"Rice","description":"Tangy rice with lemon and spices.","menuItemImageUrl":"https://images.unsplash.com/photo-1516684732162-798a0062be99"},
+      {"menuItem":"Jeera Rice","price":109,"menuType":"Rice","description":"Basmati rice flavored with cumin.","menuItemImageUrl":"https://images.unsplash.com/photo-1516684732162-798a0062be99"},
+      {"menuItem":"Curd Rice","price":89,"menuType":"Rice","description":"Rice mixed with seasoned yogurt.","menuItemImageUrl":"https://images.unsplash.com/photo-1516684732162-798a0062be99"},
+      {"menuItem":"Plain Rice","price":79,"menuType":"Rice","description":"Steamed fragrant rice.","menuItemImageUrl":"https://images.unsplash.com/photo-1516684732162-798a0062be99"},
+      {"menuItem":"Andhra Chicken Curry","price":249,"menuType":"Curries","description":"Spicy chicken curry prepared Andhra style.","menuItemImageUrl":"https://images.unsplash.com/photo-1603894584373-5ac82b2ae398"}
+    ]
+  },
+  {
+    "restaurantName": "Cafe Coffee Corner",
+    "rating": 4.2,
+    "menuTypes": ["Coffee", "Tea", "Snacks", "Desserts", "Sandwiches"],
+    "imageUrl": "https://images.unsplash.com/photo-1442512595331-e89e73853f31",
+    "location": "Jubilee Hills",
+    "menus": [
+      {"menuItem":"Cold Coffee","price":129,"menuType":"Coffee","description":"Chilled creamy coffee with milk and ice.","menuItemImageUrl":"https://images.unsplash.com/photo-1461023058943-07fcbe16d735"},
+      {"menuItem":"Cappuccino","price":139,"menuType":"Coffee","description":"Espresso topped with steamed milk foam.","menuItemImageUrl":"https://images.unsplash.com/photo-1495474472287-4d71bcdd2085"},
+      {"menuItem":"Cafe Latte","price":149,"menuType":"Coffee","description":"Smooth espresso with steamed milk.","menuItemImageUrl":"https://images.unsplash.com/photo-1495474472287-4d71bcdd2085"},
+      {"menuItem":"Americano","price":119,"menuType":"Coffee","description":"Classic espresso with hot water.","menuItemImageUrl":"https://images.unsplash.com/photo-1495474472287-4d71bcdd2085"},
+      {"menuItem":"Masala Tea","price":59,"menuType":"Tea","description":"Indian tea with aromatic spices.","menuItemImageUrl":"https://images.unsplash.com/photo-1544787219-7f47ccb76574"},
+      {"menuItem":"Green Tea","price":69,"menuType":"Tea","description":"Light refreshing green tea.","menuItemImageUrl":"https://images.unsplash.com/photo-1544787219-7f47ccb76574"},
+      {"menuItem":"Veg Sandwich","price":129,"menuType":"Sandwiches","description":"Fresh vegetable sandwich.","menuItemImageUrl":"https://images.unsplash.com/photo-1528735602780-2552fd46c7af"},
+      {"menuItem":"Chicken Sandwich","price":169,"menuType":"Sandwiches","description":"Grilled chicken sandwich.","menuItemImageUrl":"https://images.unsplash.com/photo-1528735602780-2552fd46c7af"},
+      {"menuItem":"French Fries","price":99,"menuType":"Snacks","description":"Crispy golden potato fries.","menuItemImageUrl":"https://images.unsplash.com/photo-1573080496219-bb080dd4f877"},
+      {"menuItem":"Cheese Garlic Bread","price":149,"menuType":"Snacks","description":"Garlic bread topped with melted cheese.","menuItemImageUrl":"https://images.unsplash.com/photo-1573140247632-f8fd74997d5c"},
+      {"menuItem":"Chocolate Brownie","price":99,"menuType":"Desserts","description":"Soft chocolate brownie.","menuItemImageUrl":"https://images.unsplash.com/photo-1606313564200-e75d5e30476c"},
+      {"menuItem":"Blueberry Cheesecake","price":199,"menuType":"Desserts","description":"Creamy cheesecake with blueberry topping.","menuItemImageUrl":"https://images.unsplash.com/photo-1565958011703-44f9829ba187"},
+      {"menuItem":"Chocolate Muffin","price":89,"menuType":"Desserts","description":"Soft chocolate muffin.","menuItemImageUrl":"https://images.unsplash.com/photo-1558303058-2f9e6a9c8d80"}
+    ]
+  },
+
+  {
+    "restaurantName": "Hyderabad Spice House",
+    "rating": 4.5,
+    "menuTypes": ["Biryani", "Starters", "Curries", "Breads", "Desserts"],
+    "imageUrl": "https://images.unsplash.com/photo-1601050690597-df0568f70950",
+    "location": "Hitech City",
+    "menus": [
+      {"menuItem":"Chicken Dum Biryani","price":269,"menuType":"Biryani","description":"Aromatic Hyderabad-style chicken biryani.","menuItemImageUrl":"https://images.unsplash.com/photo-1563379091339-03246963d96c"},
+      {"menuItem":"Mutton Dum Biryani","price":349,"menuType":"Biryani","description":"Tender mutton layered with fragrant rice.","menuItemImageUrl":"https://images.unsplash.com/photo-1563379091339-03246963d96c"},
+      {"menuItem":"Egg Biryani","price":199,"menuType":"Biryani","description":"Flavored rice with boiled eggs.","menuItemImageUrl":"https://images.unsplash.com/photo-1563379091339-03246963d96c"},
+      {"menuItem":"Chicken 65","price":189,"menuType":"Starters","description":"Crispy spicy chicken starter.","menuItemImageUrl":"https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec"},
+      {"menuItem":"Chilli Chicken","price":219,"menuType":"Starters","description":"Chicken tossed with chilli and sauces.","menuItemImageUrl":"https://images.unsplash.com/photo-1512058564366-18510be2db19"},
+      {"menuItem":"Chicken Tikka","price":229,"menuType":"Starters","description":"Chargrilled chicken with spices.","menuItemImageUrl":"https://images.unsplash.com/photo-1599487488170-d11ec9c172f0"},
+      {"menuItem":"Mutton Curry","price":279,"menuType":"Curries","description":"Slow-cooked mutton curry.","menuItemImageUrl":"https://images.unsplash.com/photo-1546833999-b9f581a1996d"},
+      {"menuItem":"Butter Chicken","price":249,"menuType":"Curries","description":"Creamy tomato-based chicken curry.","menuItemImageUrl":"https://images.unsplash.com/photo-1603894584373-5ac82b2ae398"},
+      {"menuItem":"Paneer Curry","price":209,"menuType":"Curries","description":"Paneer in aromatic Indian gravy.","menuItemImageUrl":"https://images.unsplash.com/photo-1631452180519-c014fe946bc7"},
+      {"menuItem":"Butter Naan","price":49,"menuType":"Breads","description":"Soft buttery naan.","menuItemImageUrl":"https://images.unsplash.com/photo-1601050690597-df0568f70950"},
+      {"menuItem":"Garlic Naan","price":69,"menuType":"Breads","description":"Garlic and coriander naan.","menuItemImageUrl":"https://images.unsplash.com/photo-1601050690597-df0568f70950"},
+      {"menuItem":"Double Ka Meetha","price":119,"menuType":"Desserts","description":"Classic Hyderabadi bread dessert.","menuItemImageUrl":"https://images.unsplash.com/photo-1565958011703-44f9829ba187"},
+      {"menuItem":"Qubani Ka Meetha","price":139,"menuType":"Desserts","description":"Apricot dessert with cream.","menuItemImageUrl":"https://images.unsplash.com/photo-1565958011703-44f9829ba187"}
+    ]
+  },
+
+  {
+    "restaurantName": "Dosa Express",
+    "rating": 4.3,
+    "menuTypes": ["Dosa", "Idli", "Vada", "Rice", "Beverages"],
+    "imageUrl": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
+    "location": "Ameerpet",
+    "menus": [
+      {"menuItem":"Masala Dosa","price":89,"menuType":"Dosa","description":"Crispy dosa with potato masala.","menuItemImageUrl":"https://images.unsplash.com/photo-1589301760014-d929f3979dbc"},
+      {"menuItem":"Onion Dosa","price":99,"menuType":"Dosa","description":"Crispy dosa topped with onions.","menuItemImageUrl":"https://images.unsplash.com/photo-1589301760014-d929f3979dbc"},
+      {"menuItem":"Paneer Dosa","price":139,"menuType":"Dosa","description":"Dosa filled with spiced paneer.","menuItemImageUrl":"https://images.unsplash.com/photo-1589301760014-d929f3979dbc"},
+      {"menuItem":"Cheese Dosa","price":129,"menuType":"Dosa","description":"Dosa filled with melted cheese.","menuItemImageUrl":"https://images.unsplash.com/photo-1589301760014-d929f3979dbc"},
+      {"menuItem":"Plain Dosa","price":69,"menuType":"Dosa","description":"Classic crispy dosa.","menuItemImageUrl":"https://images.unsplash.com/photo-1589301760014-d929f3979dbc"},
+      {"menuItem":"Idli Sambar","price":59,"menuType":"Idli","description":"Soft idlis with hot sambar.","menuItemImageUrl":"https://images.unsplash.com/photo-1589301760014-d929f3979dbc"},
+      {"menuItem":"Kanchipuram Idli","price":79,"menuType":"Idli","description":"Spiced traditional steamed idli.","menuItemImageUrl":"https://images.unsplash.com/photo-1589301760014-d929f3979dbc"},
+      {"menuItem":"Medu Vada","price":69,"menuType":"Vada","description":"Crispy lentil fritters.","menuItemImageUrl":"https://images.unsplash.com/photo-1589301760014-d929f3979dbc"},
+      {"menuItem":"Curd Vada","price":89,"menuType":"Vada","description":"Vada served with seasoned yogurt.","menuItemImageUrl":"https://images.unsplash.com/photo-1589301760014-d929f3979dbc"},
+      {"menuItem":"Lemon Rice","price":89,"menuType":"Rice","description":"Tangy lemon-flavored rice.","menuItemImageUrl":"https://images.unsplash.com/photo-1516684732162-798a0062be99"},
+      {"menuItem":"Tamarind Rice","price":89,"menuType":"Rice","description":"Tangy South Indian tamarind rice.","menuItemImageUrl":"https://images.unsplash.com/photo-1516684732162-798a0062be99"},
+      {"menuItem":"Filter Coffee","price":49,"menuType":"Beverages","description":"Traditional South Indian filter coffee.","menuItemImageUrl":"https://images.unsplash.com/photo-1495474472287-4d71bcdd2085"},
+      {"menuItem":"Badam Milk","price":79,"menuType":"Beverages","description":"Warm creamy almond milk.","menuItemImageUrl":"https://images.unsplash.com/photo-1550583724-b2692b85b150"}
+    ]
+  },
+
+  {
+    "restaurantName": "Andhra Kitchen",
+    "rating": 4.4,
+    "menuTypes": ["Andhra", "Rice", "Curries", "Starters", "Meals"],
+    "imageUrl": "https://images.unsplash.com/photo-1546833999-b9f581a1996d",
+    "location": "Kondapur",
+    "menus": [
+      {"menuItem":"Andhra Chicken Curry","price":249,"menuType":"Curries","description":"Spicy traditional Andhra chicken curry.","menuItemImageUrl":"https://images.unsplash.com/photo-1603894584373-5ac82b2ae398"},
+      {"menuItem":"Gongura Chicken","price":269,"menuType":"Andhra","description":"Chicken cooked with tangy gongura leaves.","menuItemImageUrl":"https://images.unsplash.com/photo-1603894584373-5ac82b2ae398"},
+      {"menuItem":"Gongura Mutton","price":299,"menuType":"Andhra","description":"Mutton cooked with tangy gongura.","menuItemImageUrl":"https://images.unsplash.com/photo-1546833999-b9f581a1996d"},
+      {"menuItem":"Andhra Fish Fry","price":279,"menuType":"Starters","description":"Crispy spicy fish fry.","menuItemImageUrl":"https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2"},
+      {"menuItem":"Chicken Fry","price":229,"menuType":"Starters","description":"Spicy Andhra-style chicken fry.","menuItemImageUrl":"https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec"},
+      {"menuItem":"Prawn Fry","price":299,"menuType":"Starters","description":"Spiced crispy prawns.","menuItemImageUrl":"https://images.unsplash.com/photo-1565680018434-b513d5e5fd47"},
+      {"menuItem":"Dal Tadka","price":139,"menuType":"Curries","description":"Lentils tempered with spices.","menuItemImageUrl":"https://images.unsplash.com/photo-1546833999-b9f581a1996d"},
+      {"menuItem":"Paneer Curry","price":199,"menuType":"Curries","description":"Paneer in spicy gravy.","menuItemImageUrl":"https://images.unsplash.com/photo-1631452180519-c014fe946bc7"},
+      {"menuItem":"Andhra Meals","price":179,"menuType":"Meals","description":"Traditional Andhra meal with rice and curries.","menuItemImageUrl":"https://images.unsplash.com/photo-1546833999-b9f581a1996d"},
+      {"menuItem":"Curd Rice","price":89,"menuType":"Rice","description":"Cooling rice with seasoned yogurt.","menuItemImageUrl":"https://images.unsplash.com/photo-1516684732162-798a0062be99"},
+      {"menuItem":"Lemon Rice","price":89,"menuType":"Rice","description":"Tangy lemon rice.","menuItemImageUrl":"https://images.unsplash.com/photo-1516684732162-798a0062be99"},
+      {"menuItem":"Jeera Rice","price":109,"menuType":"Rice","description":"Cumin flavored basmati rice.","menuItemImageUrl":"https://images.unsplash.com/photo-1516684732162-798a0062be99"},
+      {"menuItem":"Plain Rice","price":79,"menuType":"Rice","description":"Steamed basmati rice.","menuItemImageUrl":"https://images.unsplash.com/photo-1516684732162-798a0062be99"}
+    ]
+  },
+
+  {
+    "restaurantName": "Mumbai Street Food",
+    "rating": 4.2,
+    "menuTypes": ["Pav Bhaji", "Vada Pav", "Chaat", "Sandwiches", "Beverages"],
+    "imageUrl": "https://images.unsplash.com/photo-1601050690597-df0568f70950",
+    "location": "Madhapur",
+    "menus": [
+      {"menuItem":"Pav Bhaji","price":119,"menuType":"Pav Bhaji","description":"Spiced vegetable bhaji with buttered pav.","menuItemImageUrl":"https://images.unsplash.com/photo-1601050690597-df0568f70950"},
+      {"menuItem":"Cheese Pav Bhaji","price":149,"menuType":"Pav Bhaji","description":"Pav bhaji topped with melted cheese.","menuItemImageUrl":"https://images.unsplash.com/photo-1601050690597-df0568f70950"},
+      {"menuItem":"Vada Pav","price":69,"menuType":"Vada Pav","description":"Spiced potato fritter inside pav.","menuItemImageUrl":"https://images.unsplash.com/photo-1601050690597-df0568f70950"},
+      {"menuItem":"Cheese Vada Pav","price":89,"menuType":"Vada Pav","description":"Vada pav with melted cheese.","menuItemImageUrl":"https://images.unsplash.com/photo-1601050690597-df0568f70950"},
+      {"menuItem":"Samosa Chaat","price":109,"menuType":"Chaat","description":"Samosa topped with chutneys and yogurt.","menuItemImageUrl":"https://images.unsplash.com/photo-1601050690597-df0568f70950"},
+      {"menuItem":"Bhel Puri","price":89,"menuType":"Chaat","description":"Puffed rice mixed with chutneys and vegetables.","menuItemImageUrl":"https://images.unsplash.com/photo-1601050690597-df0568f70950"},
+      {"menuItem":"Sev Puri","price":99,"menuType":"Chaat","description":"Crispy puris topped with chutneys and sev.","menuItemImageUrl":"https://images.unsplash.com/photo-1601050690597-df0568f70950"},
+      {"menuItem":"Dahi Puri","price":109,"menuType":"Chaat","description":"Puris filled with yogurt and chutneys.","menuItemImageUrl":"https://images.unsplash.com/photo-1601050690597-df0568f70950"},
+      {"menuItem":"Veg Grill Sandwich","price":129,"menuType":"Sandwiches","description":"Grilled vegetable sandwich.","menuItemImageUrl":"https://images.unsplash.com/photo-1528735602780-2552fd46c7af"},
+      {"menuItem":"Cheese Sandwich","price":139,"menuType":"Sandwiches","description":"Toasted sandwich with cheese.","menuItemImageUrl":"https://images.unsplash.com/photo-1528735602780-2552fd46c7af"},
+      {"menuItem":"Masala Chai","price":49,"menuType":"Beverages","description":"Indian tea with aromatic spices.","menuItemImageUrl":"https://images.unsplash.com/photo-1544787219-7f47ccb76574"},
+      {"menuItem":"Mango Lassi","price":99,"menuType":"Beverages","description":"Creamy yogurt drink with mango.","menuItemImageUrl":"https://images.unsplash.com/photo-1553530666-ba11a7da3888"},
+      {"menuItem":"Fresh Lime Soda","price":69,"menuType":"Beverages","description":"Refreshing lime soda.","menuItemImageUrl":"https://images.unsplash.com/photo-1513558161293-cdaf765ed2fd"}
+    ]
+  },
+
+  {
+    "restaurantName": "Biryani House",
+    "rating": 4.6,
+    "menuTypes": ["Biryani", "Kebabs", "Starters", "Curries", "Desserts"],
+    "imageUrl": "https://images.unsplash.com/photo-1563379091339-03246963d96c",
+    "location": "Secunderabad",
+    "menus": [
+      {"menuItem":"Special Chicken Biryani","price":279,"menuType":"Biryani","description":"Signature chicken biryani.","menuItemImageUrl":"https://images.unsplash.com/photo-1563379091339-03246963d96c"},
+      {"menuItem":"Mutton Biryani","price":359,"menuType":"Biryani","description":"Tender mutton biryani.","menuItemImageUrl":"https://images.unsplash.com/photo-1563379091339-03246963d96c"},
+      {"menuItem":"Chicken Fry Biryani","price":299,"menuType":"Biryani","description":"Biryani topped with crispy chicken fry.","menuItemImageUrl":"https://images.unsplash.com/photo-1563379091339-03246963d96c"},
+      {"menuItem":"Egg Biryani","price":199,"menuType":"Biryani","description":"Fragrant biryani with boiled eggs.","menuItemImageUrl":"https://images.unsplash.com/photo-1563379091339-03246963d96c"},
+      {"menuItem":"Chicken Seekh Kebab","price":219,"menuType":"Kebabs","description":"Juicy chicken seekh kebab.","menuItemImageUrl":"https://images.unsplash.com/photo-1599487488170-d11ec9c172f0"},
+      {"menuItem":"Mutton Seekh Kebab","price":259,"menuType":"Kebabs","description":"Spicy minced mutton kebab.","menuItemImageUrl":"https://images.unsplash.com/photo-1599487488170-d11ec9c172f0"},
+      {"menuItem":"Chicken Tikka","price":229,"menuType":"Starters","description":"Chargrilled chicken tikka.","menuItemImageUrl":"https://images.unsplash.com/photo-1599487488170-d11ec9c172f0"},
+      {"menuItem":"Chicken 65","price":189,"menuType":"Starters","description":"Crispy spicy chicken.","menuItemImageUrl":"https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec"},
+      {"menuItem":"Butter Chicken","price":249,"menuType":"Curries","description":"Creamy chicken curry.","menuItemImageUrl":"https://images.unsplash.com/photo-1603894584373-5ac82b2ae398"},
+      {"menuItem":"Mutton Curry","price":279,"menuType":"Curries","description":"Rich mutton curry.","menuItemImageUrl":"https://images.unsplash.com/photo-1546833999-b9f581a1996d"},
+      {"menuItem":"Mirchi Ka Salan","price":129,"menuType":"Curries","description":"Chilli curry with peanut gravy.","menuItemImageUrl":"https://images.unsplash.com/photo-1546833999-b9f581a1996d"},
+      {"menuItem":"Double Ka Meetha","price":119,"menuType":"Desserts","description":"Traditional Hyderabadi sweet.","menuItemImageUrl":"https://images.unsplash.com/photo-1565958011703-44f9829ba187"},
+      {"menuItem":"Qubani Ka Meetha","price":139,"menuType":"Desserts","description":"Apricot-based Hyderabadi dessert.","menuItemImageUrl":"https://images.unsplash.com/photo-1565958011703-44f9829ba187"}
+    ]
+  },
+
+  {
+    "restaurantName": "Green Leaf Restaurant",
+    "rating": 4.1,
+    "menuTypes": ["North Indian", "South Indian", "Chinese", "Breads", "Rice"],
+    "imageUrl": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd",
+    "location": "Begumpet",
+    "menus": [
+      {"menuItem":"Veg Biryani","price":179,"menuType":"Rice","description":"Fragrant rice cooked with vegetables.","menuItemImageUrl":"https://images.unsplash.com/photo-1563379091339-03246963d96c"},
+      {"menuItem":"Paneer Biryani","price":219,"menuType":"Rice","description":"Biryani with spicy paneer pieces.","menuItemImageUrl":"https://images.unsplash.com/photo-1563379091339-03246963d96c"},
+      {"menuItem":"Paneer Butter Masala","price":219,"menuType":"North Indian","description":"Paneer in creamy tomato gravy.","menuItemImageUrl":"https://images.unsplash.com/photo-1631452180519-c014fe946bc7"},
+      {"menuItem":"Kadai Paneer","price":229,"menuType":"North Indian","description":"Paneer cooked with capsicum and spices.","menuItemImageUrl":"https://images.unsplash.com/photo-1631452180519-c014fe946bc7"},
+      {"menuItem":"Dal Tadka","price":139,"menuType":"North Indian","description":"Yellow lentils with tempering.","menuItemImageUrl":"https://images.unsplash.com/photo-1546833999-b9f581a1996d"},
+      {"menuItem":"Veg Manchurian","price":159,"menuType":"Chinese","description":"Vegetable balls in spicy sauce.","menuItemImageUrl":"https://images.unsplash.com/photo-1512058564366-18510be2db19"},
+      {"menuItem":"Veg Hakka Noodles","price":149,"menuType":"Chinese","description":"Stir-fried noodles with vegetables.","menuItemImageUrl":"https://images.unsplash.com/photo-1512058564366-18510be2db19"},
+      {"menuItem":"Veg Fried Rice","price":149,"menuType":"Chinese","description":"Chinese-style vegetable fried rice.","menuItemImageUrl":"https://images.unsplash.com/photo-1603133872878-684f208fb84b"},
+      {"menuItem":"Masala Dosa","price":89,"menuType":"South Indian","description":"Crispy dosa with potato filling.","menuItemImageUrl":"https://images.unsplash.com/photo-1589301760014-d929f3979dbc"},
+      {"menuItem":"Idli Sambar","price":59,"menuType":"South Indian","description":"Soft idlis with sambar.","menuItemImageUrl":"https://images.unsplash.com/photo-1589301760014-d929f3979dbc"},
+      {"menuItem":"Butter Naan","price":49,"menuType":"Breads","description":"Soft naan with butter.","menuItemImageUrl":"https://images.unsplash.com/photo-1601050690597-df0568f70950"},
+      {"menuItem":"Garlic Naan","price":69,"menuType":"Breads","description":"Garlic flavored naan.","menuItemImageUrl":"https://images.unsplash.com/photo-1601050690597-df0568f70950"},
+      {"menuItem":"Jeera Rice","price":109,"menuType":"Rice","description":"Basmati rice flavored with cumin.","menuItemImageUrl":"https://images.unsplash.com/photo-1516684732162-798a0062be99"}
+    ]
+  },
+
+  {
+    "restaurantName": "Royal Mughlai",
+    "rating": 4.5,
+    "menuTypes": ["Mughlai", "Kebabs", "Curries", "Biryani", "Breads"],
+    "imageUrl": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398",
+    "location": "Banjara Hills",
+    "menus": [
+      {"menuItem":"Mughlai Chicken","price":249,"menuType":"Mughlai","description":"Rich creamy Mughlai chicken curry.","menuItemImageUrl":"https://images.unsplash.com/photo-1603894584373-5ac82b2ae398"},
+      {"menuItem":"Chicken Korma","price":259,"menuType":"Mughlai","description":"Chicken cooked in creamy nut gravy.","menuItemImageUrl":"https://images.unsplash.com/photo-1603894584373-5ac82b2ae398"},
+      {"menuItem":"Mutton Korma","price":299,"menuType":"Mughlai","description":"Tender mutton in rich creamy gravy.","menuItemImageUrl":"https://images.unsplash.com/photo-1546833999-b9f581a1996d"},
+      {"menuItem":"Chicken Seekh Kebab","price":219,"menuType":"Kebabs","description":"Spiced minced chicken kebabs.","menuItemImageUrl":"https://images.unsplash.com/photo-1599487488170-d11ec9c172f0"},
+      {"menuItem":"Shami Kebab","price":229,"menuType":"Kebabs","description":"Soft minced meat kebabs.","menuItemImageUrl":"https://images.unsplash.com/photo-1599487488170-d11ec9c172f0"},
+      {"menuItem":"Mutton Biryani","price":349,"menuType":"Biryani","description":"Fragrant mutton biryani.","menuItemImageUrl":"https://images.unsplash.com/photo-1563379091339-03246963d96c"},
+      {"menuItem":"Chicken Biryani","price":279,"menuType":"Biryani","description":"Aromatic chicken biryani.","menuItemImageUrl":"https://images.unsplash.com/photo-1563379091339-03246963d96c"},
+      {"menuItem":"Paneer Korma","price":219,"menuType":"Curries","description":"Paneer in creamy Mughlai gravy.","menuItemImageUrl":"https://images.unsplash.com/photo-1631452180519-c014fe946bc7"},
+      {"menuItem":"Dal Makhani","price":179,"menuType":"Curries","description":"Creamy slow-cooked black lentils.","menuItemImageUrl":"https://images.unsplash.com/photo-1546833999-b9f581a1996d"},
+      {"menuItem":"Butter Naan","price":49,"menuType":"Breads","description":"Soft buttery naan.","menuItemImageUrl":"https://images.unsplash.com/photo-1601050690597-df0568f70950"},
+      {"menuItem":"Sheermal","price":79,"menuType":"Breads","description":"Soft mildly sweet Mughlai bread.","menuItemImageUrl":"https://images.unsplash.com/photo-1601050690117-94f5f6fa8bd7"},
+      {"menuItem":"Phirni","price":119,"menuType":"Desserts","description":"Creamy rice pudding flavored with cardamom.","menuItemImageUrl":"https://images.unsplash.com/photo-1565958011703-44f9829ba187"},
+      {"menuItem":"Shahi Tukda","price":129,"menuType":"Desserts","description":"Fried bread with sweet creamy rabri.","menuItemImageUrl":"https://images.unsplash.com/photo-1565958011703-44f9829ba187"}
+    ]
+  },
+
+  {
+    "restaurantName": "The Pasta Factory",
+    "rating": 4.3,
+    "menuTypes": ["Pasta", "Pizza", "Garlic Bread", "Salads", "Beverages"],
+    "imageUrl": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601",
+    "location": "Jubilee Hills",
+    "menus": [
+      {"menuItem":"Penne Arrabbiata","price":199,"menuType":"Pasta","description":"Penne in spicy tomato sauce.","menuItemImageUrl":"https://images.unsplash.com/photo-1473093295043-cdd812d0e601"},
+      {"menuItem":"Penne Alfredo","price":219,"menuType":"Pasta","description":"Creamy Alfredo pasta.","menuItemImageUrl":"https://images.unsplash.com/photo-1551183053-bf91a1d81141"},
+      {"menuItem":"Chicken Alfredo","price":279,"menuType":"Pasta","description":"Creamy pasta with grilled chicken.","menuItemImageUrl":"https://images.unsplash.com/photo-1551183053-bf91a1d81141"},
+      {"menuItem":"Pesto Pasta","price":229,"menuType":"Pasta","description":"Pasta with fresh basil pesto.","menuItemImageUrl":"https://images.unsplash.com/photo-1473093295043-cdd812d0e601"},
+      {"menuItem":"Mac and Cheese","price":199,"menuType":"Pasta","description":"Creamy cheesy macaroni.","menuItemImageUrl":"https://images.unsplash.com/photo-1543339494-b4cd4f7ba686"},
+      {"menuItem":"Margherita Pizza","price":199,"menuType":"Pizza","description":"Classic cheese and basil pizza.","menuItemImageUrl":"https://images.unsplash.com/photo-1574071318508-1cdbab80d002"},
+      {"menuItem":"Veggie Pizza","price":249,"menuType":"Pizza","description":"Pizza topped with fresh vegetables.","menuItemImageUrl":"https://images.unsplash.com/photo-1513104890138-7c749659a591"},
+      {"menuItem":"Chicken Pizza","price":299,"menuType":"Pizza","description":"Pizza topped with seasoned chicken.","menuItemImageUrl":"https://images.unsplash.com/photo-1513104890138-7c749659a591"},
+      {"menuItem":"Garlic Bread","price":119,"menuType":"Garlic Bread","description":"Crispy garlic butter bread.","menuItemImageUrl":"https://images.unsplash.com/photo-1573140247632-f8fd74997d5c"},
+      {"menuItem":"Cheese Garlic Bread","price":149,"menuType":"Garlic Bread","description":"Garlic bread with melted cheese.","menuItemImageUrl":"https://images.unsplash.com/photo-1573140247632-f8fd74997d5c"},
+      {"menuItem":"Caesar Salad","price":169,"menuType":"Salads","description":"Fresh lettuce with creamy dressing.","menuItemImageUrl":"https://images.unsplash.com/photo-1512621776951-a57141f2eefd"},
+      {"menuItem":"Cold Coffee","price":129,"menuType":"Beverages","description":"Chilled creamy coffee.","menuItemImageUrl":"https://images.unsplash.com/photo-1461023058943-07fcbe16d735"},
+      {"menuItem":"Lemon Iced Tea","price":99,"menuType":"Beverages","description":"Refreshing chilled lemon tea.","menuItemImageUrl":"https://images.unsplash.com/photo-1513558161293-cdaf765ed2fd"}
+    ]
+  },
+
+  {
+    "restaurantName": "Kebab Kingdom",
+    "rating": 4.4,
+    "menuTypes": ["Kebabs", "Tandoori", "Starters", "Curries", "Breads"],
+    "imageUrl": "https://images.unsplash.com/photo-1599487488170-d11ec9c172f0",
+    "location": "Tolichowki",
+    "menus": [
+      {"menuItem":"Chicken Seekh Kebab","price":219,"menuType":"Kebabs","description":"Juicy minced chicken kebabs.","menuItemImageUrl":"https://images.unsplash.com/photo-1599487488170-d11ec9c172f0"},
+      {"menuItem":"Mutton Seekh Kebab","price":259,"menuType":"Kebabs","description":"Spiced minced mutton kebabs.","menuItemImageUrl":"https://images.unsplash.com/photo-1599487488170-d11ec9c172f0"},
+      {"menuItem":"Chicken Malai Kebab","price":249,"menuType":"Kebabs","description":"Creamy mild chicken kebabs.","menuItemImageUrl":"https://images.unsplash.com/photo-1599307767316-776533bb941c"},
+      {"menuItem":"Reshmi Kebab","price":249,"menuType":"Kebabs","description":"Soft creamy minced chicken kebabs.","menuItemImageUrl":"https://images.unsplash.com/photo-1599487488170-d11ec9c172f0"},
+      {"menuItem":"Tandoori Chicken","price":299,"menuType":"Tandoori","description":"Chicken roasted with yogurt and spices.","menuItemImageUrl":"https://images.unsplash.com/photo-1599487488170-d11ec9c172f0"},
+      {"menuItem":"Tandoori Fish","price":299,"menuType":"Tandoori","description":"Spiced fish roasted in tandoor.","menuItemImageUrl":"https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2"},
+      {"menuItem":"Paneer Tikka","price":199,"menuType":"Starters","description":"Grilled paneer with Indian spices.","menuItemImageUrl":"https://images.unsplash.com/photo-1599487488170-d11ec9c172f0"},
+      {"menuItem":"Chicken Tikka","price":229,"menuType":"Starters","description":"Grilled chicken tikka.","menuItemImageUrl":"https://images.unsplash.com/photo-1599487488170-d11ec9c172f0"},
+      {"menuItem":"Mutton Curry","price":279,"menuType":"Curries","description":"Rich mutton curry.","menuItemImageUrl":"https://images.unsplash.com/photo-1546833999-b9f581a1996d"},
+      {"menuItem":"Butter Chicken","price":249,"menuType":"Curries","description":"Creamy butter chicken.","menuItemImageUrl":"https://images.unsplash.com/photo-1603894584373-5ac82b2ae398"},
+      {"menuItem":"Paneer Curry","price":209,"menuType":"Curries","description":"Paneer in spiced gravy.","menuItemImageUrl":"https://images.unsplash.com/photo-1631452180519-c014fe946bc7"},
+      {"menuItem":"Butter Naan","price":49,"menuType":"Breads","description":"Soft buttery naan.","menuItemImageUrl":"https://images.unsplash.com/photo-1601050690597-df0568f70950"},
+      {"menuItem":"Garlic Naan","price":69,"menuType":"Breads","description":"Garlic naan with coriander.","menuItemImageUrl":"https://images.unsplash.com/photo-1601050690597-df0568f70950"}
+    ]
+  },
+
+  {
+    "restaurantName": "Punjabi Rasoi",
+    "rating": 4.2,
+    "menuTypes": ["Punjabi", "Curries", "Breads", "Rice", "Starters"],
+    "imageUrl": "https://images.unsplash.com/photo-1546833999-b9f581a1996d",
+    "location": "Punjagutta",
+    "menus": [
+      {"menuItem":"Dal Makhani","price":179,"menuType":"Curries","description":"Creamy slow-cooked black lentils.","menuItemImageUrl":"https://images.unsplash.com/photo-1546833999-b9f581a1996d"},
+      {"menuItem":"Chole Bhature","price":169,"menuType":"Punjabi","description":"Spiced chickpeas with fluffy bhature.","menuItemImageUrl":"https://images.unsplash.com/photo-1601050690597-df0568f70950"},
+      {"menuItem":"Rajma Chawal","price":159,"menuType":"Punjabi","description":"Rajma curry served with rice.","menuItemImageUrl":"https://images.unsplash.com/photo-1546833999-b9f581a1996d"},
+      {"menuItem":"Paneer Butter Masala","price":219,"menuType":"Curries","description":"Paneer in creamy tomato gravy.","menuItemImageUrl":"https://images.unsplash.com/photo-1631452180519-c014fe946bc7"},
+      {"menuItem":"Kadai Paneer","price":229,"menuType":"Curries","description":"Paneer with capsicum and spices.","menuItemImageUrl":"https://images.unsplash.com/photo-1631452180519-c014fe946bc7"},
+      {"menuItem":"Butter Chicken","price":249,"menuType":"Curries","description":"Chicken in creamy tomato gravy.","menuItemImageUrl":"https://images.unsplash.com/photo-1603894584373-5ac82b2ae398"},
+      {"menuItem":"Amritsari Fish","price":279,"menuType":"Starters","description":"Crispy spiced fish fritters.","menuItemImageUrl":"https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2"},
+      {"menuItem":"Paneer Tikka","price":199,"menuType":"Starters","description":"Chargrilled paneer with spices.","menuItemImageUrl":"https://images.unsplash.com/photo-1599487488170-d11ec9c172f0"},
+      {"menuItem":"Tandoori Roti","price":35,"menuType":"Breads","description":"Whole wheat tandoori roti.","menuItemImageUrl":"https://images.unsplash.com/photo-1601050690117-94f5f6fa8bd7"},
+      {"menuItem":"Butter Naan","price":49,"menuType":"Breads","description":"Soft naan with butter.","menuItemImageUrl":"https://images.unsplash.com/photo-1601050690597-df0568f70950"},
+      {"menuItem":"Garlic Naan","price":69,"menuType":"Breads","description":"Garlic flavored naan.","menuItemImageUrl":"https://images.unsplash.com/photo-1601050690597-df0568f70950"},
+      {"menuItem":"Jeera Rice","price":109,"menuType":"Rice","description":"Cumin flavored basmati rice.","menuItemImageUrl":"https://images.unsplash.com/photo-1516684732162-798a0062be99"},
+      {"menuItem":"Punjabi Thali","price":249,"menuType":"Punjabi","description":"Complete Punjabi meal.","menuItemImageUrl":"https://images.unsplash.com/photo-1546833999-b9f581a1996d"}
+    ]
+  },
+
+  {
+    "restaurantName": "Burger Hub",
+    "rating": 4.0,
+    "menuTypes": ["Burgers", "Fries", "Sandwiches", "Shakes", "Combos"],
+    "imageUrl": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd",
+    "location": "Kukatpally",
+    "menus": [
+      {"menuItem":"Classic Veg Burger","price":99,"menuType":"Burgers","description":"Classic vegetable patty burger.","menuItemImageUrl":"https://images.unsplash.com/photo-1568901346375-23c9450c58cd"},
+      {"menuItem":"Cheese Burger","price":149,"menuType":"Burgers","description":"Veg burger with melted cheese.","menuItemImageUrl":"https://images.unsplash.com/photo-1553979459-d2229ba7433a"},
+      {"menuItem":"Chicken Burger","price":189,"menuType":"Burgers","description":"Juicy chicken patty burger.","menuItemImageUrl":"https://images.unsplash.com/photo-1568901346375-23c9450c58cd"},
+      {"menuItem":"Double Chicken Burger","price":249,"menuType":"Burgers","description":"Burger with two chicken patties.","menuItemImageUrl":"https://images.unsplash.com/photo-1568901346375-23c9450c58cd"},
+      {"menuItem":"Paneer Burger","price":169,"menuType":"Burgers","description":"Grilled paneer burger.","menuItemImageUrl":"https://images.unsplash.com/photo-1568901346375-23c9450c58cd"},
+      {"menuItem":"French Fries","price":89,"menuType":"Fries","description":"Crispy potato fries.","menuItemImageUrl":"https://images.unsplash.com/photo-1573080496219-bb080dd4f877"},
+      {"menuItem":"Cheese Fries","price":129,"menuType":"Fries","description":"Fries topped with melted cheese.","menuItemImageUrl":"https://images.unsplash.com/photo-1573080496219-bb080dd4f877"},
+      {"menuItem":"Peri Peri Fries","price":109,"menuType":"Fries","description":"Spicy peri peri fries.","menuItemImageUrl":"https://images.unsplash.com/photo-1573080496219-bb080dd4f877"},
+      {"menuItem":"Veg Sandwich","price":119,"menuType":"Sandwiches","description":"Fresh vegetable sandwich.","menuItemImageUrl":"https://images.unsplash.com/photo-1528735602780-2552fd46c7af"},
+      {"menuItem":"Chicken Sandwich","price":169,"menuType":"Sandwiches","description":"Grilled chicken sandwich.","menuItemImageUrl":"https://images.unsplash.com/photo-1528735602780-2552fd46c7af"},
+      {"menuItem":"Chocolate Shake","price":149,"menuType":"Shakes","description":"Thick chocolate shake.","menuItemImageUrl":"https://images.unsplash.com/photo-1572490122747-3968b75cc699"},
+      {"menuItem":"Oreo Shake","price":169,"menuType":"Shakes","description":"Creamy Oreo milkshake.","menuItemImageUrl":"https://images.unsplash.com/photo-1572490122747-3968b75cc699"},
+      {"menuItem":"Burger Combo","price":299,"menuType":"Combos","description":"Burger with fries and beverage.","menuItemImageUrl":"https://images.unsplash.com/photo-1568901346375-23c9450c58cd"}
+    ]
+  },
+
+  {
+    "restaurantName": "Bowl Nation",
+    "rating": 4.3,
+    "menuTypes": ["Rice Bowls", "Noodles", "Salads", "Healthy Bowls", "Beverages"],
+    "imageUrl": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd",
+    "location": "Gachibowli",
+    "menus": [
+      {"menuItem":"Chicken Rice Bowl","price":219,"menuType":"Rice Bowls","description":"Rice bowl topped with seasoned chicken.","menuItemImageUrl":"https://images.unsplash.com/photo-1547592180-85f173990554"},
+      {"menuItem":"Paneer Rice Bowl","price":199,"menuType":"Rice Bowls","description":"Rice bowl with spicy paneer.","menuItemImageUrl":"https://images.unsplash.com/photo-1547592180-85f173990554"},
+      {"menuItem":"Veg Rice Bowl","price":169,"menuType":"Rice Bowls","description":"Rice with fresh vegetables and sauce.","menuItemImageUrl":"https://images.unsplash.com/photo-1547592180-85f173990554"},
+      {"menuItem":"Chicken Noodle Bowl","price":229,"menuType":"Noodles","description":"Noodles with chicken and vegetables.","menuItemImageUrl":"https://images.unsplash.com/photo-1512058564366-18510be2db19"},
+      {"menuItem":"Veg Noodle Bowl","price":189,"menuType":"Noodles","description":"Noodles with fresh vegetables.","menuItemImageUrl":"https://images.unsplash.com/photo-1512058564366-18510be2db19"},
+      {"menuItem":"Greek Salad","price":179,"menuType":"Salads","description":"Fresh Greek-style vegetable salad.","menuItemImageUrl":"https://images.unsplash.com/photo-1512621776951-a57141f2eefd"},
+      {"menuItem":"Chicken Caesar Salad","price":229,"menuType":"Salads","description":"Chicken Caesar salad.","menuItemImageUrl":"https://images.unsplash.com/photo-1512621776951-a57141f2eefd"},
+      {"menuItem":"Quinoa Bowl","price":219,"menuType":"Healthy Bowls","description":"Healthy quinoa and vegetable bowl.","menuItemImageUrl":"https://images.unsplash.com/photo-1547592180-85f173990554"},
+      {"menuItem":"Protein Bowl","price":249,"menuType":"Healthy Bowls","description":"High-protein bowl with grains and vegetables.","menuItemImageUrl":"https://images.unsplash.com/photo-1547592180-85f173990554"},
+      {"menuItem":"Avocado Bowl","price":239,"menuType":"Healthy Bowls","description":"Fresh avocado with grains and vegetables.","menuItemImageUrl":"https://images.unsplash.com/photo-1541519227354-08fa5d50c44d"},
+      {"menuItem":"Orange Juice","price":99,"menuType":"Beverages","description":"Fresh orange juice.","menuItemImageUrl":"https://images.unsplash.com/photo-1600271886742-f049cd451bba"},
+      {"menuItem":"Mango Smoothie","price":149,"menuType":"Beverages","description":"Fresh mango smoothie.","menuItemImageUrl":"https://images.unsplash.com/photo-1553530666-ba11a7da3888"},
+      {"menuItem":"Berry Smoothie","price":169,"menuType":"Beverages","description":"Mixed berry smoothie.","menuItemImageUrl":"https://images.unsplash.com/photo-1553530666-ba11a7da3888"}
+    ]
+  },
+
+  {
+    "restaurantName": "Chaat Corner",
+    "rating": 4.2,
+    "menuTypes": ["Chaat", "Snacks", "Samosa", "Beverages", "Desserts"],
+    "imageUrl": "https://images.unsplash.com/photo-1601050690597-df0568f70950",
+    "location": "Ameerpet",
+    "menus": [
+      {"menuItem":"Pani Puri","price":69,"menuType":"Chaat","description":"Crispy puris filled with spiced water.","menuItemImageUrl":"https://images.unsplash.com/photo-1601050690597-df0568f70950"},
+      {"menuItem":"Bhel Puri","price":79,"menuType":"Chaat","description":"Puffed rice with chutneys and vegetables.","menuItemImageUrl":"https://images.unsplash.com/photo-1601050690597-df0568f70950"},
+      {"menuItem":"Sev Puri","price":89,"menuType":"Chaat","description":"Crispy puris topped with sev and chutneys.","menuItemImageUrl":"https://images.unsplash.com/photo-1601050690597-df0568f70950"},
+      {"menuItem":"Dahi Puri","price":99,"menuType":"Chaat","description":"Puris topped with yogurt and chutneys.","menuItemImageUrl":"https://images.unsplash.com/photo-1601050690597-df0568f70950"},
+      {"menuItem":"Samosa Chaat","price":109,"menuType":"Chaat","description":"Samosa with yogurt and chutneys.","menuItemImageUrl":"https://images.unsplash.com/photo-1601050690597-df0568f70950"},
+      {"menuItem":"Aloo Tikki Chaat","price":99,"menuType":"Chaat","description":"Crispy potato patties with chutneys.","menuItemImageUrl":"https://images.unsplash.com/photo-1601050690597-df0568f70950"},
+      {"menuItem":"Paneer Samosa","price":59,"menuType":"Samosa","description":"Crispy samosa filled with paneer.","menuItemImageUrl":"https://images.unsplash.com/photo-1601050690597-df0568f70950"},
+      {"menuItem":"Aloo Samosa","price":39,"menuType":"Samosa","description":"Classic potato samosa.","menuItemImageUrl":"https://images.unsplash.com/photo-1601050690597-df0568f70950"},
+      {"menuItem":"Bread Pakoda","price":69,"menuType":"Snacks","description":"Bread fritter with spicy filling.","menuItemImageUrl":"https://images.unsplash.com/photo-1601050690597-df0568f70950"},
+      {"menuItem":"Onion Pakoda","price":69,"menuType":"Snacks","description":"Crispy onion fritters.","menuItemImageUrl":"https://images.unsplash.com/photo-1601050690597-df0568f70950"},
+      {"menuItem":"Masala Chai","price":39,"menuType":"Beverages","description":"Hot Indian spiced tea.","menuItemImageUrl":"https://images.unsplash.com/photo-1544787219-7f47ccb76574"},
+      {"menuItem":"Mango Lassi","price":89,"menuType":"Beverages","description":"Creamy mango yogurt drink.","menuItemImageUrl":"https://images.unsplash.com/photo-1553530666-ba11a7da3888"},
+      {"menuItem":"Gulab Jamun","price":69,"menuType":"Desserts","description":"Soft sweet milk dumplings.","menuItemImageUrl":"https://images.unsplash.com/photo-1565958011703-44f9829ba187"}
+    ]
+  },
+
+  {
+    "restaurantName": "Cafe Mocha",
+    "rating": 4.4,
+    "menuTypes": ["Coffee", "Tea", "Sandwiches", "Pasta", "Desserts"],
+    "imageUrl": "https://images.unsplash.com/photo-1442512595331-e89e73853f31",
+    "location": "Banjara Hills",
+    "menus": [
+      {"menuItem":"Cappuccino","price":139,"menuType":"Coffee","description":"Espresso with steamed milk foam.","menuItemImageUrl":"https://images.unsplash.com/photo-1495474472287-4d71bcdd2085"},
+      {"menuItem":"Cafe Latte","price":149,"menuType":"Coffee","description":"Espresso blended with steamed milk.","menuItemImageUrl":"https://images.unsplash.com/photo-1495474472287-4d71bcdd2085"},
+      {"menuItem":"Mocha","price":159,"menuType":"Coffee","description":"Coffee with chocolate and steamed milk.","menuItemImageUrl":"https://images.unsplash.com/photo-1495474472287-4d71bcdd2085"},
+      {"menuItem":"Cold Coffee","price":129,"menuType":"Coffee","description":"Chilled creamy coffee.","menuItemImageUrl":"https://images.unsplash.com/photo-1461023058943-07fcbe16d735"},
+      {"menuItem":"Masala Tea","price":59,"menuType":"Tea","description":"Spiced Indian tea.","menuItemImageUrl":"https://images.unsplash.com/photo-1544787219-7f47ccb76574"},
+      {"menuItem":"Green Tea","price":69,"menuType":"Tea","description":"Refreshing green tea.","menuItemImageUrl":"https://images.unsplash.com/photo-1544787219-7f47ccb76574"},
+      {"menuItem":"Veg Sandwich","price":129,"menuType":"Sandwiches","description":"Fresh vegetable sandwich.","menuItemImageUrl":"https://images.unsplash.com/photo-1528735602780-2552fd46c7af"},
+      {"menuItem":"Chicken Sandwich","price":179,"menuType":"Sandwiches","description":"Chicken sandwich with creamy dressing.","menuItemImageUrl":"https://images.unsplash.com/photo-1528735602780-2552fd46c7af"},
+      {"menuItem":"Penne Alfredo","price":219,"menuType":"Pasta","description":"Creamy Alfredo pasta.","menuItemImageUrl":"https://images.unsplash.com/photo-1551183053-bf91a1d81141"},
+      {"menuItem":"Arrabbiata Pasta","price":199,"menuType":"Pasta","description":"Pasta with spicy tomato sauce.","menuItemImageUrl":"https://images.unsplash.com/photo-1473093295043-cdd812d0e601"},
+      {"menuItem":"Chocolate Brownie","price":99,"menuType":"Desserts","description":"Rich chocolate brownie.","menuItemImageUrl":"https://images.unsplash.com/photo-1606313564200-e75d5e30476c"},
+      {"menuItem":"Cheesecake","price":189,"menuType":"Desserts","description":"Creamy classic cheesecake.","menuItemImageUrl":"https://images.unsplash.com/photo-1565958011703-44f9829ba187"},
+      {"menuItem":"Chocolate Muffin","price":89,"menuType":"Desserts","description":"Soft chocolate muffin.","menuItemImageUrl":"https://images.unsplash.com/photo-1558303058-2f9e6a9c8d80"}
+    ]
+  },
+
+  {
+    "restaurantName": "Royal Thali House",
+    "rating": 4.5,
+    "menuTypes": ["Thali", "North Indian", "Breads", "Curries", "Desserts"],
+    "imageUrl": "https://images.unsplash.com/photo-1546833999-b9f581a1996d",
+    "location": "Himayatnagar",
+    "menus": [
+      {"menuItem":"Special North Indian Thali","price":279,"menuType":"Thali","description":"Complete North Indian meal.","menuItemImageUrl":"https://images.unsplash.com/photo-1546833999-b9f581a1996d"},
+      {"menuItem":"Punjabi Thali","price":259,"menuType":"Thali","description":"Traditional Punjabi meal.","menuItemImageUrl":"https://images.unsplash.com/photo-1546833999-b9f581a1996d"},
+      {"menuItem":"Paneer Butter Masala","price":219,"menuType":"Curries","description":"Paneer in creamy tomato gravy.","menuItemImageUrl":"https://images.unsplash.com/photo-1631452180519-c014fe946bc7"},
+      {"menuItem":"Dal Makhani","price":179,"menuType":"Curries","description":"Slow-cooked black lentils.","menuItemImageUrl":"https://images.unsplash.com/photo-1546833999-b9f581a1996d"},
+      {"menuItem":"Kadai Paneer","price":229,"menuType":"Curries","description":"Paneer with capsicum and spices.","menuItemImageUrl":"https://images.unsplash.com/photo-1631452180519-c014fe946bc7"},
+      {"menuItem":"Chole Masala","price":159,"menuType":"Curries","description":"Spiced chickpea curry.","menuItemImageUrl":"https://images.unsplash.com/photo-1546833999-b9f581a1996d"},
+      {"menuItem":"Butter Naan","price":49,"menuType":"Breads","description":"Soft butter naan.","menuItemImageUrl":"https://images.unsplash.com/photo-1601050690597-df0568f70950"},
+      {"menuItem":"Garlic Naan","price":69,"menuType":"Breads","description":"Garlic flavored naan.","menuItemImageUrl":"https://images.unsplash.com/photo-1601050690597-df0568f70950"},
+      {"menuItem":"Tandoori Roti","price":35,"menuType":"Breads","description":"Whole wheat tandoori roti.","menuItemImageUrl":"https://images.unsplash.com/photo-1601050690117-94f5f6fa8bd7"},
+      {"menuItem":"Paneer Tikka","price":199,"menuType":"North Indian","description":"Grilled paneer with spices.","menuItemImageUrl":"https://images.unsplash.com/photo-1599487488170-d11ec9c172f0"},
+      {"menuItem":"Veg Pulao","price":149,"menuType":"North Indian","description":"Fragrant rice with vegetables.","menuItemImageUrl":"https://images.unsplash.com/photo-1516684732162-798a0062be99"},
+      {"menuItem":"Gulab Jamun","price":79,"menuType":"Desserts","description":"Sweet milk dumplings.","menuItemImageUrl":"https://images.unsplash.com/photo-1565958011703-44f9829ba187"},
+      {"menuItem":"Rasmalai","price":119,"menuType":"Desserts","description":"Soft cheese dumplings in sweet milk.","menuItemImageUrl":"https://images.unsplash.com/photo-1565958011703-44f9829ba187"}
+    ]
+  },
+
+  {
+    "restaurantName": "Seafood Bay",
+    "rating": 4.3,
+    "menuTypes": ["Seafood", "Fish", "Prawns", "Rice", "Starters"],
+    "imageUrl": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2",
+    "location": "Miyapur",
+    "menus": [
+      {"menuItem":"Grilled Fish","price":299,"menuType":"Fish","description":"Fresh fish grilled with herbs.","menuItemImageUrl":"https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2"},
+      {"menuItem":"Fish Fry","price":279,"menuType":"Fish","description":"Crispy spiced fish.","menuItemImageUrl":"https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2"},
+      {"menuItem":"Fish Curry","price":249,"menuType":"Fish","description":"Fish cooked in spicy curry.","menuItemImageUrl":"https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2"},
+      {"menuItem":"Prawn Masala","price":299,"menuType":"Prawns","description":"Prawns in spicy masala gravy.","menuItemImageUrl":"https://images.unsplash.com/photo-1565680018434-b513d5e5fd47"},
+      {"menuItem":"Prawn Fry","price":319,"menuType":"Prawns","description":"Crispy fried prawns.","menuItemImageUrl":"https://images.unsplash.com/photo-1565680018434-b513d5e5fd47"},
+      {"menuItem":"Garlic Prawns","price":329,"menuType":"Prawns","description":"Prawns cooked with garlic and herbs.","menuItemImageUrl":"https://images.unsplash.com/photo-1565680018434-b513d5e5fd47"},
+      {"menuItem":"Crab Masala","price":399,"menuType":"Seafood","description":"Crab cooked with spicy masala.","menuItemImageUrl":"https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2"},
+      {"menuItem":"Calamari Fry","price":349,"menuType":"Seafood","description":"Crispy seasoned calamari.","menuItemImageUrl":"https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2"},
+      {"menuItem":"Seafood Rice","price":229,"menuType":"Rice","description":"Rice cooked with mixed seafood.","menuItemImageUrl":"https://images.unsplash.com/photo-1516684732162-798a0062be99"},
+      {"menuItem":"Jeera Rice","price":109,"menuType":"Rice","description":"Cumin flavored basmati rice.","menuItemImageUrl":"https://images.unsplash.com/photo-1516684732162-798a0062be99"},
+      {"menuItem":"Lemon Rice","price":99,"menuType":"Rice","description":"Tangy lemon rice.","menuItemImageUrl":"https://images.unsplash.com/photo-1516684732162-798a0062be99"},
+      {"menuItem":"Fish Tikka","price":299,"menuType":"Starters","description":"Grilled fish tikka.","menuItemImageUrl":"https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2"},
+      {"menuItem":"Prawn Tikka","price":329,"menuType":"Starters","description":"Grilled prawns with spices.","menuItemImageUrl":"https://images.unsplash.com/photo-1565680018434-b513d5e5fd47"}
+    ]
+  },
+
+  {
+    "restaurantName": "Veggie Delight",
+    "rating": 4.2,
+    "menuTypes": ["Vegetarian", "Curries", "Rice", "Breads", "Starters"],
+    "imageUrl": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd",
+    "location": "Kothapet",
+    "menus": [
+      {"menuItem":"Paneer Butter Masala","price":219,"menuType":"Curries","description":"Paneer in creamy tomato gravy.","menuItemImageUrl":"https://images.unsplash.com/photo-1631452180519-c014fe946bc7"},
+      {"menuItem":"Kadai Paneer","price":229,"menuType":"Curries","description":"Paneer with peppers and spices.","menuItemImageUrl":"https://images.unsplash.com/photo-1631452180519-c014fe946bc7"},
+      {"menuItem":"Palak Paneer","price":219,"menuType":"Curries","description":"Paneer cooked in spinach gravy.","menuItemImageUrl":"https://images.unsplash.com/photo-1631452180519-c014fe946bc7"},
+      {"menuItem":"Dal Tadka","price":139,"menuType":"Curries","description":"Yellow lentils with tempering.","menuItemImageUrl":"https://images.unsplash.com/photo-1546833999-b9f581a1996d"},
+      {"menuItem":"Chole Masala","price":159,"menuType":"Curries","description":"Spiced chickpea curry.","menuItemImageUrl":"https://images.unsplash.com/photo-1546833999-b9f581a1996d"},
+      {"menuItem":"Veg Biryani","price":179,"menuType":"Rice","description":"Fragrant vegetable biryani.","menuItemImageUrl":"https://images.unsplash.com/photo-1563379091339-03246963d96c"},
+      {"menuItem":"Veg Pulao","price":149,"menuType":"Rice","description":"Vegetable pulao with aromatic spices.","menuItemImageUrl":"https://images.unsplash.com/photo-1516684732162-798a0062be99"},
+      {"menuItem":"Jeera Rice","price":109,"menuType":"Rice","description":"Cumin flavored rice.","menuItemImageUrl":"https://images.unsplash.com/photo-1516684732162-798a0062be99"},
+      {"menuItem":"Paneer Tikka","price":199,"menuType":"Starters","description":"Grilled paneer with spices.","menuItemImageUrl":"https://images.unsplash.com/photo-1599487488170-d11ec9c172f0"},
+      {"menuItem":"Veg Manchurian","price":159,"menuType":"Starters","description":"Crispy vegetable balls in sauce.","menuItemImageUrl":"https://images.unsplash.com/photo-1512058564366-18510be2db19"},
+      {"menuItem":"Butter Naan","price":49,"menuType":"Breads","description":"Soft butter naan.","menuItemImageUrl":"https://images.unsplash.com/photo-1601050690597-df0568f70950"},
+      {"menuItem":"Garlic Naan","price":69,"menuType":"Breads","description":"Garlic naan with coriander.","menuItemImageUrl":"https://images.unsplash.com/photo-1601050690597-df0568f70950"},
+      {"menuItem":"Tandoori Roti","price":35,"menuType":"Breads","description":"Whole wheat tandoori roti.","menuItemImageUrl":"https://images.unsplash.com/photo-1601050690117-94f5f6fa8bd7"}
+    ]
+  },
+
+  {
+    "restaurantName": "Chicken Point",
+    "rating": 4.1,
+    "menuTypes": ["Chicken", "Starters", "Curries", "Biryani", "Rice"],
+    "imageUrl": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec",
+    "location": "Dilsukhnagar",
+    "menus": [
+      {"menuItem":"Chicken Biryani","price":249,"menuType":"Biryani","description":"Aromatic chicken biryani.","menuItemImageUrl":"https://images.unsplash.com/photo-1563379091339-03246963d96c"},
+      {"menuItem":"Chicken Fry Biryani","price":279,"menuType":"Biryani","description":"Biryani topped with crispy chicken.","menuItemImageUrl":"https://images.unsplash.com/photo-1563379091339-03246963d96c"},
+      {"menuItem":"Chicken 65","price":189,"menuType":"Starters","description":"Crispy spicy chicken.","menuItemImageUrl":"https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec"},
+      {"menuItem":"Chicken Tikka","price":219,"menuType":"Starters","description":"Grilled chicken pieces.","menuItemImageUrl":"https://images.unsplash.com/photo-1599487488170-d11ec9c172f0"},
+      {"menuItem":"Chilli Chicken","price":219,"menuType":"Starters","description":"Chicken tossed in spicy sauce.","menuItemImageUrl":"https://images.unsplash.com/photo-1512058564366-18510be2db19"},
+      {"menuItem":"Chicken Manchurian","price":229,"menuType":"Starters","description":"Chicken in Manchurian sauce.","menuItemImageUrl":"https://images.unsplash.com/photo-1512058564366-18510be2db19"},
+      {"menuItem":"Butter Chicken","price":249,"menuType":"Curries","description":"Creamy butter chicken.","menuItemImageUrl":"https://images.unsplash.com/photo-1603894584373-5ac82b2ae398"},
+      {"menuItem":"Chicken Curry","price":229,"menuType":"Curries","description":"Traditional chicken curry.","menuItemImageUrl":"https://images.unsplash.com/photo-1603894584373-5ac82b2ae398"},
+      {"menuItem":"Kadai Chicken","price":239,"menuType":"Curries","description":"Chicken cooked with peppers and spices.","menuItemImageUrl":"https://images.unsplash.com/photo-1603894584373-5ac82b2ae398"},
+      {"menuItem":"Chicken Fried Rice","price":189,"menuType":"Rice","description":"Fried rice with chicken and vegetables.","menuItemImageUrl":"https://images.unsplash.com/photo-1603133872878-684f208fb84b"},
+      {"menuItem":"Chicken Noodles","price":189,"menuType":"Rice","description":"Stir-fried noodles with chicken.","menuItemImageUrl":"https://images.unsplash.com/photo-1512058564366-18510be2db19"},
+      {"menuItem":"Chicken Wings","price":199,"menuType":"Chicken","description":"Crispy spicy chicken wings.","menuItemImageUrl":"https://images.unsplash.com/photo-1527477396000-e27163b481c2"},
+      {"menuItem":"Chicken Popcorn","price":179,"menuType":"Chicken","description":"Crispy bite-sized chicken pieces.","menuItemImageUrl":"https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec"}
+    ]
+  },
+
+  {
+    "restaurantName": "Tasty Momos",
+    "rating": 4.0,
+    "menuTypes": ["Momos", "Noodles", "Fried Rice", "Starters", "Soups"],
+    "imageUrl": "https://images.unsplash.com/photo-1625220194771-7ebdea0b70b9",
+    "location": "Madhapur",
+    "menus": [
+      {"menuItem":"Veg Momos","price":99,"menuType":"Momos","description":"Steamed vegetable dumplings.","menuItemImageUrl":"https://images.unsplash.com/photo-1625220194771-7ebdea0b70b9"},
+      {"menuItem":"Chicken Momos","price":129,"menuType":"Momos","description":"Steamed chicken dumplings.","menuItemImageUrl":"https://images.unsplash.com/photo-1625220194771-7ebdea0b70b9"},
+      {"menuItem":"Paneer Momos","price":119,"menuType":"Momos","description":"Paneer-filled steamed dumplings.","menuItemImageUrl":"https://images.unsplash.com/photo-1625220194771-7ebdea0b70b9"},
+      {"menuItem":"Fried Chicken Momos","price":149,"menuType":"Momos","description":"Crispy fried chicken momos.","menuItemImageUrl":"https://images.unsplash.com/photo-1625220194771-7ebdea0b70b9"},
+      {"menuItem":"Tandoori Momos","price":169,"menuType":"Momos","description":"Momos cooked with tandoori spices.","menuItemImageUrl":"https://images.unsplash.com/photo-1625220194771-7ebdea0b70b9"},
+      {"menuItem":"Veg Hakka Noodles","price":139,"menuType":"Noodles","description":"Stir-fried vegetable noodles.","menuItemImageUrl":"https://images.unsplash.com/photo-1512058564366-18510be2db19"},
+      {"menuItem":"Chicken Hakka Noodles","price":179,"menuType":"Noodles","description":"Chicken noodles with vegetables.","menuItemImageUrl":"https://images.unsplash.com/photo-1512058564366-18510be2db19"},
+      {"menuItem":"Veg Fried Rice","price":139,"menuType":"Fried Rice","description":"Vegetable fried rice.","menuItemImageUrl":"https://images.unsplash.com/photo-1603133872878-684f208fb84b"},
+      {"menuItem":"Chicken Fried Rice","price":179,"menuType":"Fried Rice","description":"Chicken fried rice.","menuItemImageUrl":"https://images.unsplash.com/photo-1603133872878-684f208fb84b"},
+      {"menuItem":"Chilli Chicken","price":199,"menuType":"Starters","description":"Spicy chilli chicken.","menuItemImageUrl":"https://images.unsplash.com/photo-1512058564366-18510be2db19"},
+      {"menuItem":"Veg Manchurian","price":149,"menuType":"Starters","description":"Vegetable balls in spicy sauce.","menuItemImageUrl":"https://images.unsplash.com/photo-1512058564366-18510be2db19"},
+      {"menuItem":"Hot and Sour Soup","price":109,"menuType":"Soups","description":"Spicy and tangy soup.","menuItemImageUrl":"https://images.unsplash.com/photo-1547592180-85f173990554"},
+      {"menuItem":"Sweet Corn Soup","price":109,"menuType":"Soups","description":"Sweet corn soup with vegetables.","menuItemImageUrl":"https://images.unsplash.com/photo-1547592180-85f173990554"}
+    ]
+  },
+
+  {
+    "restaurantName": "Farm Fresh Kitchen",
+    "rating": 4.3,
+    "menuTypes": ["Healthy", "Salads", "Soups", "Sandwiches", "Juices"],
+    "imageUrl": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd",
+    "location": "Financial District",
+    "menus": [
+      {"menuItem":"Garden Salad","price":149,"menuType":"Salads","description":"Fresh seasonal vegetable salad.","menuItemImageUrl":"https://images.unsplash.com/photo-1512621776951-a57141f2eefd"},
+      {"menuItem":"Greek Salad","price":179,"menuType":"Salads","description":"Greek salad with feta and olives.","menuItemImageUrl":"https://images.unsplash.com/photo-1512621776951-a57141f2eefd"},
+      {"menuItem":"Chicken Salad","price":219,"menuType":"Salads","description":"Fresh salad with grilled chicken.","menuItemImageUrl":"https://images.unsplash.com/photo-1512621776951-a57141f2eefd"},
+      {"menuItem":"Corn Salad","price":159,"menuType":"Salads","description":"Sweet corn with fresh vegetables.","menuItemImageUrl":"https://images.unsplash.com/photo-1512621776951-a57141f2eefd"},
+      {"menuItem":"Tomato Soup","price":99,"menuType":"Soups","description":"Creamy tomato soup.","menuItemImageUrl":"https://images.unsplash.com/photo-1547592180-85f173990554"},
+      {"menuItem":"Sweet Corn Soup","price":109,"menuType":"Soups","description":"Light sweet corn soup.","menuItemImageUrl":"https://images.unsplash.com/photo-1547592180-85f173990554"},
+      {"menuItem":"Veg Sandwich","price":129,"menuType":"Sandwiches","description":"Healthy vegetable sandwich.","menuItemImageUrl":"https://images.unsplash.com/photo-1528735602780-2552fd46c7af"},
+      {"menuItem":"Chicken Sandwich","price":179,"menuType":"Sandwiches","description":"Grilled chicken sandwich.","menuItemImageUrl":"https://images.unsplash.com/photo-1528735602780-2552fd46c7af"},
+      {"menuItem":"Avocado Toast","price":189,"menuType":"Healthy","description":"Whole grain toast with avocado.","menuItemImageUrl":"https://images.unsplash.com/photo-1541519227354-08fa5d50c44d"},
+      {"menuItem":"Protein Bowl","price":229,"menuType":"Healthy","description":"Healthy grains, vegetables and protein.","menuItemImageUrl":"https://images.unsplash.com/photo-1547592180-85f173990554"},
+      {"menuItem":"Orange Juice","price":99,"menuType":"Juices","description":"Fresh orange juice.","menuItemImageUrl":"https://images.unsplash.com/photo-1600271886742-f049cd451bba"},
+      {"menuItem":"Watermelon Juice","price":89,"menuType":"Juices","description":"Fresh watermelon juice.","menuItemImageUrl":"https://images.unsplash.com/photo-1622597467836-f3285f2131b8"},
+      {"menuItem":"Mango Smoothie","price":149,"menuType":"Juices","description":"Fresh mango smoothie.","menuItemImageUrl":"https://images.unsplash.com/photo-1553530666-ba11a7da3888"}
+    ]
+  },
+
+  {
+    "restaurantName": "Biryani Junction",
+    "rating": 4.2,
+    "menuTypes": ["Biryani", "Starters", "Kebabs", "Curries", "Desserts"],
+    "imageUrl": "https://images.unsplash.com/photo-1563379091339-03246963d96c",
+    "location": "LB Nagar",
+    "menus": [
+      {"menuItem":"Chicken Biryani","price":249,"menuType":"Biryani","description":"Traditional chicken biryani.","menuItemImageUrl":"https://images.unsplash.com/photo-1563379091339-03246963d96c"},
+      {"menuItem":"Mutton Biryani","price":329,"menuType":"Biryani","description":"Aromatic mutton biryani.","menuItemImageUrl":"https://images.unsplash.com/photo-1563379091339-03246963d96c"},
+      {"menuItem":"Egg Biryani","price":199,"menuType":"Biryani","description":"Biryani with boiled eggs.","menuItemImageUrl":"https://images.unsplash.com/photo-1563379091339-03246963d96c"},
+      {"menuItem":"Veg Biryani","price":169,"menuType":"Biryani","description":"Vegetable biryani with spices.","menuItemImageUrl":"https://images.unsplash.com/photo-1563379091339-03246963d96c"},
+      {"menuItem":"Chicken Tikka","price":219,"menuType":"Starters","description":"Grilled chicken tikka.","menuItemImageUrl":"https://images.unsplash.com/photo-1599487488170-d11ec9c172f0"},
+      {"menuItem":"Chicken 65","price":189,"menuType":"Starters","description":"Crispy spicy chicken.","menuItemImageUrl":"https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec"},
+      {"menuItem":"Chicken Seekh Kebab","price":219,"menuType":"Kebabs","description":"Minced chicken kebab.","menuItemImageUrl":"https://images.unsplash.com/photo-1599487488170-d11ec9c172f0"},
+      {"menuItem":"Mutton Seekh Kebab","price":259,"menuType":"Kebabs","description":"Spiced mutton kebab.","menuItemImageUrl":"https://images.unsplash.com/photo-1599487488170-d11ec9c172f0"},
+      {"menuItem":"Butter Chicken","price":249,"menuType":"Curries","description":"Creamy chicken curry.","menuItemImageUrl":"https://images.unsplash.com/photo-1603894584373-5ac82b2ae398"},
+      {"menuItem":"Chicken Curry","price":229,"menuType":"Curries","description":"Traditional chicken curry.","menuItemImageUrl":"https://images.unsplash.com/photo-1603894584373-5ac82b2ae398"},
+      {"menuItem":"Paneer Curry","price":199,"menuType":"Curries","description":"Paneer in spiced gravy.","menuItemImageUrl":"https://images.unsplash.com/photo-1631452180519-c014fe946bc7"},
+      {"menuItem":"Gulab Jamun","price":79,"menuType":"Desserts","description":"Soft sweet dumplings.","menuItemImageUrl":"https://images.unsplash.com/photo-1565958011703-44f9829ba187"},
+      {"menuItem":"Double Ka Meetha","price":119,"menuType":"Desserts","description":"Hyderabadi bread dessert.","menuItemImageUrl":"https://images.unsplash.com/photo-1565958011703-44f9829ba187"}
+    ]
+  },
+
+  {
+    "restaurantName": "Spice Garden",
+    "rating": 4.1,
+    "menuTypes": ["Indian", "Curries", "Rice", "Breads", "Starters"],
+    "imageUrl": "https://images.unsplash.com/photo-1546833999-b9f581a1996d",
+    "location": "Kondapur",
+    "menus": [
+      {"menuItem":"Paneer Butter Masala","price":219,"menuType":"Curries","description":"Paneer in buttery tomato gravy.","menuItemImageUrl":"https://images.unsplash.com/photo-1631452180519-c014fe946bc7"},
+      {"menuItem":"Palak Paneer","price":209,"menuType":"Curries","description":"Paneer in spinach gravy.","menuItemImageUrl":"https://images.unsplash.com/photo-1631452180519-c014fe946bc7"},
+      {"menuItem":"Kadai Paneer","price":229,"menuType":"Curries","description":"Spiced paneer with peppers.","menuItemImageUrl":"https://images.unsplash.com/photo-1631452180519-c014fe946bc7"},
+      {"menuItem":"Dal Makhani","price":179,"menuType":"Curries","description":"Creamy black lentils.","menuItemImageUrl":"https://images.unsplash.com/photo-1546833999-b9f581a1996d"},
+      {"menuItem":"Chole Masala","price":159,"menuType":"Curries","description":"Spiced chickpea curry.","menuItemImageUrl":"https://images.unsplash.com/photo-1546833999-b9f581a1996d"},
+      {"menuItem":"Chicken Curry","price":229,"menuType":"Curries","description":"Traditional chicken curry.","menuItemImageUrl":"https://images.unsplash.com/photo-1603894584373-5ac82b2ae398"},
+      {"menuItem":"Veg Biryani","price":179,"menuType":"Rice","description":"Fragrant vegetable biryani.","menuItemImageUrl":"https://images.unsplash.com/photo-1563379091339-03246963d96c"},
+      {"menuItem":"Jeera Rice","price":109,"menuType":"Rice","description":"Cumin flavored basmati rice.","menuItemImageUrl":"https://images.unsplash.com/photo-1516684732162-798a0062be99"},
+      {"menuItem":"Veg Pulao","price":149,"menuType":"Rice","description":"Rice cooked with vegetables.","menuItemImageUrl":"https://images.unsplash.com/photo-1516684732162-798a0062be99"},
+      {"menuItem":"Paneer Tikka","price":199,"menuType":"Starters","description":"Grilled paneer starter.","menuItemImageUrl":"https://images.unsplash.com/photo-1599487488170-d11ec9c172f0"},
+      {"menuItem":"Veg Manchurian","price":159,"menuType":"Starters","description":"Vegetable balls in sauce.","menuItemImageUrl":"https://images.unsplash.com/photo-1512058564366-18510be2db19"},
+      {"menuItem":"Butter Naan","price":49,"menuType":"Breads","description":"Soft buttery naan.","menuItemImageUrl":"https://images.unsplash.com/photo-1601050690597-df0568f70950"},
+      {"menuItem":"Garlic Naan","price":69,"menuType":"Breads","description":"Garlic flavored naan.","menuItemImageUrl":"https://images.unsplash.com/photo-1601050690597-df0568f70950"}
+    ]
+  },
+
+  {
+    "restaurantName": "Tandoor House",
+    "rating": 4.4,
+    "menuTypes": ["Tandoori", "Kebabs", "Curries", "Breads", "Starters"],
+    "imageUrl": "https://images.unsplash.com/photo-1599487488170-d11ec9c172f0",
+    "location": "Mehdipatnam",
+    "menus": [
+      {"menuItem":"Tandoori Chicken","price":299,"menuType":"Tandoori","description":"Classic tandoori chicken.","menuItemImageUrl":"https://images.unsplash.com/photo-1599487488170-d11ec9c172f0"},
+      {"menuItem":"Tandoori Fish","price":299,"menuType":"Tandoori","description":"Spiced fish cooked in tandoor.","menuItemImageUrl":"https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2"},
+      {"menuItem":"Tandoori Prawns","price":329,"menuType":"Tandoori","description":"Grilled prawns with tandoori spices.","menuItemImageUrl":"https://images.unsplash.com/photo-1565680018434-b513d5e5fd47"},
+      {"menuItem":"Chicken Seekh Kebab","price":219,"menuType":"Kebabs","description":"Minced chicken kebab.","menuItemImageUrl":"https://images.unsplash.com/photo-1599487488170-d11ec9c172f0"},
+      {"menuItem":"Mutton Seekh Kebab","price":259,"menuType":"Kebabs","description":"Minced mutton kebab.","menuItemImageUrl":"https://images.unsplash.com/photo-1599487488170-d11ec9c172f0"},
+      {"menuItem":"Chicken Malai Kebab","price":249,"menuType":"Kebabs","description":"Creamy chicken kebab.","menuItemImageUrl":"https://images.unsplash.com/photo-1599307767316-776533bb941c"},
+      {"menuItem":"Paneer Tikka","price":199,"menuType":"Starters","description":"Grilled paneer with spices.","menuItemImageUrl":"https://images.unsplash.com/photo-1599487488170-d11ec9c172f0"},
+      {"menuItem":"Chicken Tikka","price":229,"menuType":"Starters","description":"Grilled chicken pieces.","menuItemImageUrl":"https://images.unsplash.com/photo-1599487488170-d11ec9c172f0"},
+      {"menuItem":"Butter Chicken","price":249,"menuType":"Curries","description":"Creamy butter chicken.","menuItemImageUrl":"https://images.unsplash.com/photo-1603894584373-5ac82b2ae398"},
+      {"menuItem":"Mutton Curry","price":279,"menuType":"Curries","description":"Rich mutton curry.","menuItemImageUrl":"https://images.unsplash.com/photo-1546833999-b9f581a1996d"},
+      {"menuItem":"Paneer Masala","price":209,"menuType":"Curries","description":"Paneer in tomato gravy.","menuItemImageUrl":"https://images.unsplash.com/photo-1631452180519-c014fe946bc7"},
+      {"menuItem":"Butter Naan","price":49,"menuType":"Breads","description":"Soft butter naan.","menuItemImageUrl":"https://images.unsplash.com/photo-1601050690597-df0568f70950"},
+      {"menuItem":"Garlic Naan","price":69,"menuType":"Breads","description":"Garlic naan.","menuItemImageUrl":"https://images.unsplash.com/photo-1601050690597-df0568f70950"}
+    ]
+  },
+
+  {
+    "restaurantName": "Dessert Dreams",
+    "rating": 4.6,
+    "menuTypes": ["Cakes", "Ice Cream", "Pastries", "Desserts", "Shakes"],
+    "imageUrl": "https://images.unsplash.com/photo-1565958011703-44f9829ba187",
+    "location": "Jubilee Hills",
+    "menus": [
+      {"menuItem":"Chocolate Truffle Cake","price":399,"menuType":"Cakes","description":"Rich chocolate truffle cake.","menuItemImageUrl":"https://images.unsplash.com/photo-1578985545062-69928b1d9587"},
+      {"menuItem":"Red Velvet Cake","price":429,"menuType":"Cakes","description":"Red velvet cake with cream cheese.","menuItemImageUrl":"https://images.unsplash.com/photo-1586788224331-947f68671cf1"},
+      {"menuItem":"Black Forest Cake","price":379,"menuType":"Cakes","description":"Chocolate cake with cherries and cream.","menuItemImageUrl":"https://images.unsplash.com/photo-1578985545062-69928b1d9587"},
+      {"menuItem":"Vanilla Cake","price":349,"menuType":"Cakes","description":"Classic vanilla cake.","menuItemImageUrl":"https://images.unsplash.com/photo-1578985545062-69928b1d9587"},
+      {"menuItem":"Chocolate Pastry","price":99,"menuType":"Pastries","description":"Chocolate pastry with cream.","menuItemImageUrl":"https://images.unsplash.com/photo-1565958011703-44f9829ba187"},
+      {"menuItem":"Pineapple Pastry","price":89,"menuType":"Pastries","description":"Pineapple cream pastry.","menuItemImageUrl":"https://images.unsplash.com/photo-1565958011703-44f9829ba187"},
+      {"menuItem":"Vanilla Ice Cream","price":89,"menuType":"Ice Cream","description":"Creamy vanilla ice cream.","menuItemImageUrl":"https://images.unsplash.com/photo-1563805042-7684c019e1cb"},
+      {"menuItem":"Chocolate Ice Cream","price":99,"menuType":"Ice Cream","description":"Rich chocolate ice cream.","menuItemImageUrl":"https://images.unsplash.com/photo-1563805042-7684c019e1cb"},
+      {"menuItem":"Strawberry Ice Cream","price":99,"menuType":"Ice Cream","description":"Creamy strawberry ice cream.","menuItemImageUrl":"https://images.unsplash.com/photo-1563805042-7684c019e1cb"},
+      {"menuItem":"Chocolate Brownie","price":119,"menuType":"Desserts","description":"Soft chocolate brownie.","menuItemImageUrl":"https://images.unsplash.com/photo-1606313564200-e75d5e30476c"},
+      {"menuItem":"Cheesecake","price":189,"menuType":"Desserts","description":"Creamy classic cheesecake.","menuItemImageUrl":"https://images.unsplash.com/photo-1565958011703-44f9829ba187"},
+      {"menuItem":"Chocolate Shake","price":159,"menuType":"Shakes","description":"Thick chocolate milkshake.","menuItemImageUrl":"https://images.unsplash.com/photo-1572490122747-3968b75cc699"},
+      {"menuItem":"Oreo Shake","price":169,"menuType":"Shakes","description":"Creamy Oreo milkshake.","menuItemImageUrl":"https://images.unsplash.com/photo-1572490122747-3968b75cc699"}
+    ]
+  },
+
+  {
+    "restaurantName": "Foodie Hub",
+    "rating": 4.0,
+    "menuTypes": ["Burgers", "Pizza", "Pasta", "Biryani", "Chinese"],
+    "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836",
+    "location": "Hafeezpet",
+    "menus": [
+      {"menuItem":"Veg Burger","price":99,"menuType":"Burgers","description":"Classic vegetable burger.","menuItemImageUrl":"https://images.unsplash.com/photo-1568901346375-23c9450c58cd"},
+      {"menuItem":"Chicken Burger","price":179,"menuType":"Burgers","description":"Juicy chicken burger.","menuItemImageUrl":"https://images.unsplash.com/photo-1568901346375-23c9450c58cd"},
+      {"menuItem":"Margherita Pizza","price":199,"menuType":"Pizza","description":"Classic cheese pizza.","menuItemImageUrl":"https://images.unsplash.com/photo-1574071318508-1cdbab80d002"},
+      {"menuItem":"Farmhouse Pizza","price":299,"menuType":"Pizza","description":"Vegetable loaded pizza.","menuItemImageUrl":"https://images.unsplash.com/photo-1513104890138-7c749659a591"},
+      {"menuItem":"Chicken Pizza","price":329,"menuType":"Pizza","description":"Pizza topped with chicken.","menuItemImageUrl":"https://images.unsplash.com/photo-1513104890138-7c749659a591"},
+      {"menuItem":"White Sauce Pasta","price":219,"menuType":"Pasta","description":"Creamy white sauce pasta.","menuItemImageUrl":"https://images.unsplash.com/photo-1551183053-bf91a1d81141"},
+      {"menuItem":"Arrabbiata Pasta","price":199,"menuType":"Pasta","description":"Spicy tomato pasta.","menuItemImageUrl":"https://images.unsplash.com/photo-1473093295043-cdd812d0e601"},
+      {"menuItem":"Chicken Biryani","price":249,"menuType":"Biryani","description":"Aromatic chicken biryani.","menuItemImageUrl":"https://images.unsplash.com/photo-1563379091339-03246963d96c"},
+      {"menuItem":"Veg Biryani","price":179,"menuType":"Biryani","description":"Vegetable biryani.","menuItemImageUrl":"https://images.unsplash.com/photo-1563379091339-03246963d96c"},
+      {"menuItem":"Veg Hakka Noodles","price":149,"menuType":"Chinese","description":"Stir-fried vegetable noodles.","menuItemImageUrl":"https://images.unsplash.com/photo-1512058564366-18510be2db19"},
+      {"menuItem":"Chicken Fried Rice","price":189,"menuType":"Chinese","description":"Chicken fried rice.","menuItemImageUrl":"https://images.unsplash.com/photo-1603133872878-684f208fb84b"},
+      {"menuItem":"Chicken Manchurian","price":219,"menuType":"Chinese","description":"Chicken in Manchurian sauce.","menuItemImageUrl":"https://images.unsplash.com/photo-1512058564366-18510be2db19"},
+      {"menuItem":"French Fries","price":89,"menuType":"Sides","description":"Crispy potato fries.","menuItemImageUrl":"https://images.unsplash.com/photo-1573080496219-bb080dd4f877"}
+    ]
+  },
+
+  {
+    "restaurantName": "Desi Zaika",
+    "rating": 4.3,
+    "menuTypes": ["Indian", "Curries", "Biryani", "Breads", "Starters"],
+    "imageUrl": "https://images.unsplash.com/photo-1546833999-b9f581a1996d",
+    "location": "Nampally",
+    "menus": [
+      {"menuItem":"Chicken Biryani","price":249,"menuType":"Biryani","description":"Spiced chicken biryani.","menuItemImageUrl":"https://images.unsplash.com/photo-1563379091339-03246963d96c"},
+      {"menuItem":"Mutton Biryani","price":329,"menuType":"Biryani","description":"Tender mutton biryani.","menuItemImageUrl":"https://images.unsplash.com/photo-1563379091339-03246963d96c"},
+      {"menuItem":"Veg Biryani","price":179,"menuType":"Biryani","description":"Vegetable biryani.","menuItemImageUrl":"https://images.unsplash.com/photo-1563379091339-03246963d96c"},
+      {"menuItem":"Butter Chicken","price":249,"menuType":"Curries","description":"Creamy butter chicken.","menuItemImageUrl":"https://images.unsplash.com/photo-1603894584373-5ac82b2ae398"},
+      {"menuItem":"Kadai Chicken","price":239,"menuType":"Curries","description":"Spiced chicken with peppers.","menuItemImageUrl":"https://images.unsplash.com/photo-1603894584373-5ac82b2ae398"},
+      {"menuItem":"Paneer Butter Masala","price":219,"menuType":"Curries","description":"Paneer in buttery tomato gravy.","menuItemImageUrl":"https://images.unsplash.com/photo-1631452180519-c014fe946bc7"},
+      {"menuItem":"Dal Makhani","price":179,"menuType":"Curries","description":"Creamy black lentils.","menuItemImageUrl":"https://images.unsplash.com/photo-1546833999-b9f581a1996d"},
+      {"menuItem":"Chole Masala","price":159,"menuType":"Curries","description":"Spiced chickpea curry.","menuItemImageUrl":"https://images.unsplash.com/photo-1546833999-b9f581a1996d"},
+      {"menuItem":"Chicken Tikka","price":229,"menuType":"Starters","description":"Grilled chicken tikka.","menuItemImageUrl":"https://images.unsplash.com/photo-1599487488170-d11ec9c172f0"},
+      {"menuItem":"Paneer Tikka","price":199,"menuType":"Starters","description":"Grilled paneer tikka.","menuItemImageUrl":"https://images.unsplash.com/photo-1599487488170-d11ec9c172f0"},
+      {"menuItem":"Butter Naan","price":49,"menuType":"Breads","description":"Soft butter naan.","menuItemImageUrl":"https://images.unsplash.com/photo-1601050690597-df0568f70950"},
+      {"menuItem":"Garlic Naan","price":69,"menuType":"Breads","description":"Garlic naan.","menuItemImageUrl":"https://images.unsplash.com/photo-1601050690597-df0568f70950"},
+      {"menuItem":"Tandoori Roti","price":35,"menuType":"Breads","description":"Traditional tandoori roti.","menuItemImageUrl":"https://images.unsplash.com/photo-1601050690117-94f5f6fa8bd7"}
+    ]
+  },
+
+  {
+    "restaurantName": "Food Palace",
+    "rating": 4.1,
+    "menuTypes": ["Indian", "Chinese", "Biryani", "Pizza", "Burgers"],
+    "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836",
+    "location": "Secunderabad",
+    "menus": [
+      {"menuItem":"Chicken Biryani","price":249,"menuType":"Biryani","description":"Aromatic chicken biryani.","menuItemImageUrl":"https://images.unsplash.com/photo-1563379091339-03246963d96c"},
+      {"menuItem":"Veg Biryani","price":179,"menuType":"Biryani","description":"Vegetable biryani.","menuItemImageUrl":"https://images.unsplash.com/photo-1563379091339-03246963d96c"},
+      {"menuItem":"Paneer Curry","price":199,"menuType":"Indian","description":"Paneer cooked in spicy gravy.","menuItemImageUrl":"https://images.unsplash.com/photo-1631452180519-c014fe946bc7"},
+      {"menuItem":"Butter Chicken","price":249,"menuType":"Indian","description":"Creamy butter chicken.","menuItemImageUrl":"https://images.unsplash.com/photo-1603894584373-5ac82b2ae398"},
+      {"menuItem":"Dal Tadka","price":139,"menuType":"Indian","description":"Yellow dal with tempering.","menuItemImageUrl":"https://images.unsplash.com/photo-1546833999-b9f581a1996d"},
+      {"menuItem":"Veg Hakka Noodles","price":149,"menuType":"Chinese","description":"Stir-fried vegetable noodles.","menuItemImageUrl":"https://images.unsplash.com/photo-1512058564366-18510be2db19"},
+      {"menuItem":"Chicken Fried Rice","price":189,"menuType":"Chinese","description":"Chicken fried rice.","menuItemImageUrl":"https://images.unsplash.com/photo-1603133872878-684f208fb84b"},
+      {"menuItem":"Veg Manchurian","price":159,"menuType":"Chinese","description":"Vegetable Manchurian.","menuItemImageUrl":"https://images.unsplash.com/photo-1512058564366-18510be2db19"},
+      {"menuItem":"Margherita Pizza","price":199,"menuType":"Pizza","description":"Classic cheese pizza.","menuItemImageUrl":"https://images.unsplash.com/photo-1574071318508-1cdbab80d002"},
+      {"menuItem":"Farmhouse Pizza","price":299,"menuType":"Pizza","description":"Vegetable loaded pizza.","menuItemImageUrl":"https://images.unsplash.com/photo-1513104890138-7c749659a591"},
+      {"menuItem":"Veg Burger","price":99,"menuType":"Burgers","description":"Classic veg burger.","menuItemImageUrl":"https://images.unsplash.com/photo-1568901346375-23c9450c58cd"},
+      {"menuItem":"Chicken Burger","price":189,"menuType":"Burgers","description":"Juicy chicken burger.","menuItemImageUrl":"https://images.unsplash.com/photo-1568901346375-23c9450c58cd"},
+      {"menuItem":"French Fries","price":89,"menuType":"Burgers","description":"Crispy potato fries.","menuItemImageUrl":"https://images.unsplash.com/photo-1573080496219-bb080dd4f877"}
+    ]
+  },
+
+  {
+    "restaurantName": "Street Food Factory",
+    "rating": 4.0,
+    "menuTypes": ["Street Food", "Rolls", "Momos", "Burgers", "Beverages"],
+    "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836",
+    "location": "Ameerpet",
+    "menus": [
+      {"menuItem":"Paneer Roll","price":129,"menuType":"Rolls","description":"Paneer wrapped with vegetables.","menuItemImageUrl":"https://images.unsplash.com/photo-1626700051175-6818013e1d4f"},
+      {"menuItem":"Chicken Roll","price":169,"menuType":"Rolls","description":"Chicken wrapped in flatbread.","menuItemImageUrl":"https://images.unsplash.com/photo-1626700051175-6818013e1d4f"},
+      {"menuItem":"Egg Roll","price":119,"menuType":"Rolls","description":"Egg and vegetables in a roll.","menuItemImageUrl":"https://images.unsplash.com/photo-1626700051175-6818013e1d4f"},
+      {"menuItem":"Veg Momos","price":99,"menuType":"Momos","description":"Steamed vegetable dumplings.","menuItemImageUrl":"https://images.unsplash.com/photo-1625220194771-7ebdea0b70b9"},
+      {"menuItem":"Chicken Momos","price":129,"menuType":"Momos","description":"Steamed chicken dumplings.","menuItemImageUrl":"https://images.unsplash.com/photo-1625220194771-7ebdea0b70b9"},
+      {"menuItem":"Fried Momos","price":149,"menuType":"Momos","description":"Crispy fried dumplings.","menuItemImageUrl":"https://images.unsplash.com/photo-1625220194771-7ebdea0b70b9"},
+      {"menuItem":"Veg Burger","price":99,"menuType":"Burgers","description":"Classic vegetable burger.","menuItemImageUrl":"https://images.unsplash.com/photo-1568901346375-23c9450c58cd"},
+      {"menuItem":"Chicken Burger","price":179,"menuType":"Burgers","description":"Chicken patty burger.","menuItemImageUrl":"https://images.unsplash.com/photo-1568901346375-23c9450c58cd"},
+      {"menuItem":"French Fries","price":89,"menuType":"Street Food","description":"Crispy potato fries.","menuItemImageUrl":"https://images.unsplash.com/photo-1573080496219-bb080dd4f877"},
+      {"menuItem":"Samosa","price":39,"menuType":"Street Food","description":"Crispy potato-filled samosa.","menuItemImageUrl":"https://images.unsplash.com/photo-1601050690597-df0568f70950"},
+      {"menuItem":"Pav Bhaji","price":119,"menuType":"Street Food","description":"Spiced vegetable bhaji with pav.","menuItemImageUrl":"https://images.unsplash.com/photo-1601050690597-df0568f70950"},
+      {"menuItem":"Cold Coffee","price":119,"menuType":"Beverages","description":"Chilled creamy coffee.","menuItemImageUrl":"https://images.unsplash.com/photo-1461023058943-07fcbe16d735"},
+      {"menuItem":"Mango Shake","price":139,"menuType":"Beverages","description":"Creamy mango shake.","menuItemImageUrl":"https://images.unsplash.com/photo-1553530666-ba11a7da3888"}
+    ]
+  }
+]

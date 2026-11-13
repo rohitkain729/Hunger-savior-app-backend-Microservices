@@ -1,0 +1,33 @@
+package com.hunger.saviour.portal.service;
+
+import java.time.Instant;
+
+import org.apache.tomcat.util.net.openssl.ciphers.Authentication;
+import org.springframework.security.crypto.password.PasswordEncoder;
+import org.springframework.security.oauth2.jwt.JwtEncoder;
+import org.springframework.stereotype.Service;
+
+import com.hunger.saviour.portal.dtos.RsaKeyConfigurationProperties;
+import com.hunger.saviour.portal.repository.UserRespository;
+
+import lombok.RequiredArgsConstructor;
+import lombok.extern.slf4j.Slf4j;
+
+@Service
+@RequiredArgsConstructor
+@Slf4j
+public class TokenService {
+
+	private final JwtEncoder jwtEncoder;
+	private final PasswordEncoder passwordEncoder;
+	private final UserRespository userRespository;
+	private final RsaKeyConfigurationProperties rsaKeyConfigurationProperties;
+	
+	public String generateToken(Authentication authentication) {
+		Instant now = Instant.now();
+	
+	authentication
+	
+	}
+	
+}

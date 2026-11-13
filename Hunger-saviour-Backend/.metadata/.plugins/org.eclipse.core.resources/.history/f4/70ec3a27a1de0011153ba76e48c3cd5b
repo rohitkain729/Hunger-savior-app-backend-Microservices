@@ -1,0 +1,5 @@
+package com.hunger.saviour.portal.repository;
+
+public class UserRespository {
+
+}

@@ -1,0 +1,6 @@
+package com.hunger.saviour.portal.service;
+
+public interface RestaurantService {
+
+	public void getRestaurants(int pageNumber, int pageSize);
+}

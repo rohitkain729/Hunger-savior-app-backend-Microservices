@@ -1,0 +1,9 @@
+package com.hunger.saviour.portal.utilities;
+
+import org.mapstruct.Mapper;
+
+@Mapper
+public interface RestaurantMapper {
+
+	Mapper.getMapper();
+}

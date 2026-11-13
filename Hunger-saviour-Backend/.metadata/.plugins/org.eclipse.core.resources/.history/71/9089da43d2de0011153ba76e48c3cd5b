@@ -1,0 +1,22 @@
+package com.hunger.saviour.portal.config;
+
+import org.springframework.security.core.userdetails.UserDetails;
+import org.springframework.security.core.userdetails.UserDetailsService;
+import org.springframework.security.core.userdetails.UsernameNotFoundException;
+
+import com.hunger.saviour.portal.repository.UserRespository;
+
+import lombok.RequiredArgsConstructor;
+
+@RequiredArgsConstructor
+public class CustomUserDetailsService implements UserDetailsService{
+
+	private final UserRespository userRespository;
+	
+	@Override
+	public UserDetails loadUserByUsername(String username) throws UsernameNotFoundException {
+		
+		return this.userRespository.findByUsername(username).orElseThrow(()->new Exception("User is not found in  Database"));
+	}
+
+}

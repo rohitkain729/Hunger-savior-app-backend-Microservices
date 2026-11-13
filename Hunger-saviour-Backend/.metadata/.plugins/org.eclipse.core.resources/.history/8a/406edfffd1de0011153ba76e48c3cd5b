@@ -1,0 +1,11 @@
+package com.hunger.saviour.portal.repository;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.stereotype.Repository;
+
+import com.hunger.saviour.portal.entities.UserEntity;
+
+@Repository
+public interface UserRespository extends JpaRepository<UserEntity, Integer> {
+
+}

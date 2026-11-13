@@ -1,0 +1,5 @@
+import org.springframework.cloud.gateway.server.mvc.common.AbstractGatewayDiscoverer;
+
+public class AuthenticationFilter extends AbstractGatewa{
+
+}

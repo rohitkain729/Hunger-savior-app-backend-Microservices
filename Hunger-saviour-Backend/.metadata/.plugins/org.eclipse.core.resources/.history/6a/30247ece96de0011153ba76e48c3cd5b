@@ -1,0 +1,8 @@
+package com.hunger.saviour.portal.dtos;
+
+public class LoginRequestDTO {
+
+	private String username;
+	private String password;
+
+}

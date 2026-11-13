@@ -1,0 +1,32 @@
+package com.hunger.saviour.portal.api_gateway.filter;
+
+import org.springframework.cloud.gateway.filter.GatewayFilter;
+import org.springframework.cloud.gateway.filter.factory.AbstractGatewayFilterFactory;
+import org.springframework.stereotype.Component;
+
+@Component
+public class AuthenticationFilter
+        extends AbstractGatewayFilterFactory<AuthenticationFilter.Config> {
+	
+	private final RouteValidator validator;
+
+    public AuthenticationFilter() {
+        super(Config.class);
+    }
+
+    @Override
+    public GatewayFilter apply(Config config) {
+    	
+    	return null;
+
+//        return (exchange, chain) -> {
+//
+//            // JWT validation logic will go here
+//
+//            return chain.filter(exchange);
+//        };
+    }
+
+    public static class Config {
+    }
+}

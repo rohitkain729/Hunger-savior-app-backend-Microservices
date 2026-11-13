@@ -1,0 +1,26 @@
+package com.hunger.saviour.portal.service.impl;
+
+import org.springframework.data.domain.Page;
+import org.springframework.data.domain.PageRequest;
+import org.springframework.stereotype.Service;
+
+import com.hunger.saviour.portal.entities.RestaurantEntity;
+import com.hunger.saviour.portal.repository.RestaurantRepository;
+import com.hunger.saviour.portal.service.RestaurantService;
+
+import lombok.RequiredArgsConstructor;
+
+@Service
+@RequiredArgsConstructor
+public class RestaurantServiceIMPL implements RestaurantService {
+
+	private final RestaurantRepository restaurantRepository;
+	
+	@Override
+	public void getRestaurants(int pageNumber, int pageSize) {
+		
+		Page<RestaurantEntity> restaurants = this.restaurantRepository.findAll(PageRequest.of(pageNumber, pageSize));
+
+	}
+
+}

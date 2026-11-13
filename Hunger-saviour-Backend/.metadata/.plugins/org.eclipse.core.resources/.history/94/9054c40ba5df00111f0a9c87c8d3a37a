@@ -1,0 +1,16 @@
+package com.hunger.saviour.portal.api_gateway.Exception;
+
+public class UnAuthorizedException extends Exception{
+
+	public UnAuthorizedException() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+
+	public UnAuthorizedException(String message) {
+		super(message);
+		// TODO Auto-generated constructor stub
+	}
+
+	
+}

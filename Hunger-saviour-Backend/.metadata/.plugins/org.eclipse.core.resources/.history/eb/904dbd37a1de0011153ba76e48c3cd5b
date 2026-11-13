@@ -1,0 +1,5 @@
+package com.hunger.saviour.portal.service;
+
+public class UserServiceIMPL {
+
+}

@@ -1,0 +1,9 @@
+package com.hunger.saviour.portal.dtos;
+
+public class SignUpRequestDTO {
+
+	private String username;
+	private String password;
+	private Long mobileNo;
+
+}

@@ -1,0 +1,39 @@
+package com.hunger.saviour.portal.service;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.security.authentication.UserDetailsRepositoryReactiveAuthenticationManager;
+import org.springframework.security.crypto.password.PasswordEncoder;
+import org.springframework.stereotype.Service;
+
+import com.hunger.saviour.portal.dtos.SignUpRequestDTO;
+import com.hunger.saviour.portal.entities.RoleEntity;
+import com.hunger.saviour.portal.entities.UserEntity;
+import com.hunger.saviour.portal.repository.UserRespository;
+
+import lombok.RequiredArgsConstructor;
+
+@Service
+@RequiredArgsConstructor
+public class UserServiceIMPL implements UserService{
+
+	private final UserRespository repo;
+	private final PasswordEncoder passwordEncoder;
+
+	@Override
+	public String signUp(SignUpRequestDTO signUpRequestDTO) {
+
+		UserEntity userEntity = UserEntity.builder()
+		.username(signUpRequestDTO.getUsername())
+		.password(passwordEncoder.encode(signUpRequestDTO.getPassword()))
+		.mobileNumber(signUpRequestDTO.getMobileNo())
+		.roles(List.of(new RoleEntity("Admin")))
+		.build();
+		
+		repo.save(userEntity);
+		
+		return "user saved";
+	}
+	
+}

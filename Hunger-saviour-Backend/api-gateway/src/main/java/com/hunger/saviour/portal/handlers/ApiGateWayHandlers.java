@@ -1,0 +1,16 @@
+package com.hunger.saviour.portal.handlers;
+
+
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.ExceptionHandler;
+import org.springframework.web.bind.annotation.RestControllerAdvice;
+
+@RestControllerAdvice
+public class ApiGateWayHandlers {
+
+	@ExceptionHandler(UnAuthorizedException.class)
+	public ResponseEntity<?> unAuthorizedException(UnAuthorizedException unAuthorizedException){
+		return new ResponseEntity<>(HttpStatus.UNAUTHORIZED);
+	}
+}

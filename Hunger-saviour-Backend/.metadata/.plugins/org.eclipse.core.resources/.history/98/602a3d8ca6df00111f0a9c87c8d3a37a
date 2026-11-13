@@ -1,0 +1,12 @@
+package com.hunger.saviour.portal.api_gateway.proxy;
+
+import org.springframework.stereotype.Component;
+import org.springframework.web.reactive.function.client.WebClient;
+
+
+@Component
+public class AuthenticationProxy {
+
+	private WebClient.Builder webclBuilder;
+	
+}
