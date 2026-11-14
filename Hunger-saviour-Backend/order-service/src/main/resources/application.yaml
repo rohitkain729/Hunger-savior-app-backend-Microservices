@@ -1,0 +1,26 @@
+#spring:
+#  application:
+#    name: order-service
+
+
+
+
+server:
+  port: 6063
+
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: root
+    url: jdbc:mysql://localhost:3306/orders?createDatabaseIfNotExist=true
+    password: admin
+  application:
+    name: order-service
+  jpa:
+    database-platform: org.hibernate.dialect.MySQLDialect
+    properties:
+      hibernate:
+        format_sql: 'true'
+    hibernate:
+      ddl-auto: update
+

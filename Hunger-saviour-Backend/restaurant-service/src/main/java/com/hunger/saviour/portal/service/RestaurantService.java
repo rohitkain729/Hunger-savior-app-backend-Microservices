@@ -11,5 +11,6 @@ public interface RestaurantService {
 
 	public Page<RestaurantEntity>  getRestaurants(int pageNumber, int pageSize);
 	public List<RestaurantDTO>  getAllRestaurants();
+	RestaurantDTO getRestaurantById(Integer restaurantId);
 	
 }

@@ -655,3 +655,322 @@
 2026-11-13 21:43:17.255: [INFO] BookmarksLoadDropped droppedNodes=0
 2026-11-13 21:43:17.255: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
 2026-11-13 22:00:09.874: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-13 23:47:50.582: [INFO] CurrentProfilePath: G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-13 23:47:50.582: [INFO] Profiles total count: 1
+2026-11-13 23:47:50.582: [INFO] Profile: name=Profile 1 path=G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-12T20:29:58.972Z
+2026-11-13 23:47:50.582: [INFO] LastUsedProfileDir: G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-13 23:47:50.582: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-12T20:29:58.972Z
+2026-11-13 23:47:50.582: [INFO] OnDoneLoading sync enabled: 0
+2026-11-13 23:47:50.582: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-13 23:47:50.582: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-13 23:47:50.582: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-13 23:47:53.788: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-13 23:48:16.534: [INFO] CurrentProfilePath: G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-13 23:48:16.534: [INFO] Profiles total count: 1
+2026-11-13 23:48:16.534: [INFO] Profile: name=Profile 1 path=G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-12T20:29:58.972Z
+2026-11-13 23:48:16.534: [INFO] LastUsedProfileDir: G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-13 23:48:16.534: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-12T20:29:58.972Z
+2026-11-13 23:48:16.534: [INFO] OnDoneLoading sync enabled: 0
+2026-11-13 23:48:16.534: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-13 23:48:16.534: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-13 23:48:16.534: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-13 23:48:20.051: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-13 23:51:23.897: [INFO] CurrentProfilePath: G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-13 23:51:23.897: [INFO] Profiles total count: 1
+2026-11-13 23:51:23.897: [INFO] Profile: name=Profile 1 path=G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-12T20:29:58.972Z
+2026-11-13 23:51:23.897: [INFO] LastUsedProfileDir: G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-13 23:51:23.897: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-12T20:29:58.972Z
+2026-11-13 23:51:23.897: [INFO] OnDoneLoading sync enabled: 0
+2026-11-13 23:51:23.897: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-13 23:51:23.897: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-13 23:51:23.897: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-13 23:51:23.982: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-13 23:51:45.748: [INFO] CurrentProfilePath: G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-13 23:51:45.748: [INFO] Profiles total count: 1
+2026-11-13 23:51:45.748: [INFO] Profile: name=Profile 1 path=G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-12T20:29:58.972Z
+2026-11-13 23:51:45.748: [INFO] LastUsedProfileDir: G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-13 23:51:45.748: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-12T20:29:58.972Z
+2026-11-13 23:51:45.748: [INFO] OnDoneLoading sync enabled: 0
+2026-11-13 23:51:45.748: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-13 23:51:45.748: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-13 23:51:45.748: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-13 23:55:51.678: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-13 23:55:55.707: [INFO] CurrentProfilePath: G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-13 23:55:55.707: [INFO] Profiles total count: 1
+2026-11-13 23:55:55.707: [INFO] Profile: name=Profile 1 path=G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-12T20:29:58.972Z
+2026-11-13 23:55:55.707: [INFO] LastUsedProfileDir: G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-13 23:55:55.707: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-12T20:29:58.972Z
+2026-11-13 23:55:55.707: [INFO] OnDoneLoading sync enabled: 0
+2026-11-13 23:55:55.707: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-13 23:55:55.707: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-13 23:55:55.707: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-14 00:01:09.508: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-14 11:28:42.041: [INFO] CurrentProfilePath: G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-14 11:28:42.041: [INFO] Profiles total count: 1
+2026-11-14 11:28:42.041: [INFO] Profile: name=Profile 1 path=G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-12T20:29:58.972Z
+2026-11-14 11:28:42.041: [INFO] LastUsedProfileDir: G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-14 11:28:42.041: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-12T20:29:58.972Z
+2026-11-14 11:28:42.041: [INFO] OnDoneLoading sync enabled: 0
+2026-11-14 11:28:42.041: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-14 11:28:42.041: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-14 11:28:42.041: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-14 11:33:51.095: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-14 18:03:25.552: [INFO] CurrentProfilePath: G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-14 18:03:25.552: [INFO] Profiles total count: 1
+2026-11-14 18:03:25.552: [INFO] Profile: name=Profile 1 path=G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-12T20:29:58.972Z
+2026-11-14 18:03:25.552: [INFO] LastUsedProfileDir: G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-14 18:03:25.552: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-12T20:29:58.972Z
+2026-11-14 18:03:25.552: [INFO] OnDoneLoading sync enabled: 0
+2026-11-14 18:03:25.552: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-14 18:03:25.552: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-14 18:03:25.552: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-14 18:04:05.604: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-14 18:47:17.665: [INFO] CurrentProfilePath: G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-14 18:47:17.665: [INFO] Profiles total count: 1
+2026-11-14 18:47:17.665: [INFO] Profile: name=Profile 1 path=G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-12T20:29:58.972Z
+2026-11-14 18:47:17.665: [INFO] LastUsedProfileDir: G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-14 18:47:17.665: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-12T20:29:58.972Z
+2026-11-14 18:47:17.665: [INFO] OnDoneLoading sync enabled: 0
+2026-11-14 18:47:17.665: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-14 18:47:17.666: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-14 18:47:17.666: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-14 18:47:20.194: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-14 19:24:54.220: [INFO] CurrentProfilePath: G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-14 19:24:54.220: [INFO] Profiles total count: 1
+2026-11-14 19:24:54.220: [INFO] Profile: name=Profile 1 path=G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-12T20:29:58.972Z
+2026-11-14 19:24:54.220: [INFO] LastUsedProfileDir: G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-14 19:24:54.220: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-12T20:29:58.972Z
+2026-11-14 19:24:54.220: [INFO] OnDoneLoading sync enabled: 0
+2026-11-14 19:24:54.220: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-14 19:24:54.220: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-14 19:24:54.220: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-14 19:24:54.301: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-14 19:26:13.199: [INFO] CurrentProfilePath: G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-14 19:26:13.199: [INFO] Profiles total count: 1
+2026-11-14 19:26:13.199: [INFO] Profile: name=Profile 1 path=G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-12T20:29:58.972Z
+2026-11-14 19:26:13.199: [INFO] LastUsedProfileDir: G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-14 19:26:13.199: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-12T20:29:58.972Z
+2026-11-14 19:26:13.199: [INFO] OnDoneLoading sync enabled: 0
+2026-11-14 19:26:13.199: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-14 19:26:13.199: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-14 19:26:13.199: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-14 19:26:13.335: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-14 19:28:40.851: [INFO] CurrentProfilePath: G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-14 19:28:40.851: [INFO] Profiles total count: 1
+2026-11-14 19:28:40.851: [INFO] Profile: name=Profile 1 path=G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-12T20:29:58.972Z
+2026-11-14 19:28:40.851: [INFO] LastUsedProfileDir: G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-14 19:28:40.851: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-12T20:29:58.972Z
+2026-11-14 19:28:40.851: [INFO] OnDoneLoading sync enabled: 0
+2026-11-14 19:28:40.851: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-14 19:28:40.851: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-14 19:28:40.851: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-14 19:28:40.932: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-14 19:28:44.341: [INFO] CurrentProfilePath: G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-14 19:28:44.341: [INFO] Profiles total count: 1
+2026-11-14 19:28:44.341: [INFO] Profile: name=Profile 1 path=G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-12T20:29:58.972Z
+2026-11-14 19:28:44.341: [INFO] LastUsedProfileDir: G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-14 19:28:44.341: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-12T20:29:58.972Z
+2026-11-14 19:28:44.341: [INFO] OnDoneLoading sync enabled: 0
+2026-11-14 19:28:44.341: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-14 19:28:44.341: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-14 19:28:44.341: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-14 19:28:44.428: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-14 19:30:58.454: [INFO] CurrentProfilePath: G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-14 19:30:58.454: [INFO] Profiles total count: 1
+2026-11-14 19:30:58.454: [INFO] Profile: name=Profile 1 path=G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-12T20:29:58.972Z
+2026-11-14 19:30:58.454: [INFO] LastUsedProfileDir: G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-14 19:30:58.454: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-12T20:29:58.972Z
+2026-11-14 19:30:58.454: [INFO] OnDoneLoading sync enabled: 0
+2026-11-14 19:30:58.454: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-14 19:30:58.454: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-14 19:30:58.454: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-14 19:30:58.537: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-14 19:31:42.968: [INFO] CurrentProfilePath: G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-14 19:31:42.968: [INFO] Profiles total count: 1
+2026-11-14 19:31:42.968: [INFO] Profile: name=Profile 1 path=G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-12T20:29:58.972Z
+2026-11-14 19:31:42.968: [INFO] LastUsedProfileDir: G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-14 19:31:42.968: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-12T20:29:58.972Z
+2026-11-14 19:31:42.968: [INFO] OnDoneLoading sync enabled: 0
+2026-11-14 19:31:42.968: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-14 19:31:42.968: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-14 19:31:42.968: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-14 19:31:47.117: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-14 19:36:33.686: [INFO] CurrentProfilePath: G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-14 19:36:33.686: [INFO] Profiles total count: 1
+2026-11-14 19:36:33.686: [INFO] Profile: name=Profile 1 path=G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-12T20:29:58.972Z
+2026-11-14 19:36:33.686: [INFO] LastUsedProfileDir: G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-14 19:36:33.687: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-12T20:29:58.972Z
+2026-11-14 19:36:33.687: [INFO] OnDoneLoading sync enabled: 0
+2026-11-14 19:36:33.687: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-14 19:36:33.687: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-14 19:36:33.687: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-14 19:36:48.094: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-14 19:44:52.416: [INFO] CurrentProfilePath: G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-14 19:44:52.416: [INFO] Profiles total count: 1
+2026-11-14 19:44:52.416: [INFO] Profile: name=Profile 1 path=G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-12T20:29:58.972Z
+2026-11-14 19:44:52.416: [INFO] LastUsedProfileDir: G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-14 19:44:52.416: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-12T20:29:58.972Z
+2026-11-14 19:44:52.416: [INFO] OnDoneLoading sync enabled: 0
+2026-11-14 19:44:52.416: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-14 19:44:52.416: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-14 19:44:52.416: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-14 19:44:52.525: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-14 19:45:56.102: [INFO] CurrentProfilePath: G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-14 19:45:56.102: [INFO] Profiles total count: 1
+2026-11-14 19:45:56.102: [INFO] Profile: name=Profile 1 path=G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-12T20:29:58.972Z
+2026-11-14 19:45:56.102: [INFO] LastUsedProfileDir: G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-14 19:45:56.102: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-12T20:29:58.972Z
+2026-11-14 19:45:56.102: [INFO] OnDoneLoading sync enabled: 0
+2026-11-14 19:45:56.102: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-14 19:45:56.102: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-14 19:45:56.102: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-14 19:45:56.199: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-14 19:58:24.678: [INFO] CurrentProfilePath: G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-14 19:58:24.678: [INFO] Profiles total count: 1
+2026-11-14 19:58:24.678: [INFO] Profile: name=Profile 1 path=G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-12T20:29:58.972Z
+2026-11-14 19:58:24.678: [INFO] LastUsedProfileDir: G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-14 19:58:24.678: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-12T20:29:58.972Z
+2026-11-14 19:58:24.678: [INFO] OnDoneLoading sync enabled: 0
+2026-11-14 19:58:24.678: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-14 19:58:24.678: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-14 19:58:24.678: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-14 19:58:24.775: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-14 19:58:46.633: [INFO] CurrentProfilePath: G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-14 19:58:46.633: [INFO] Profiles total count: 1
+2026-11-14 19:58:46.633: [INFO] Profile: name=Profile 1 path=G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-12T20:29:58.972Z
+2026-11-14 19:58:46.633: [INFO] LastUsedProfileDir: G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-14 19:58:46.633: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-12T20:29:58.972Z
+2026-11-14 19:58:46.633: [INFO] OnDoneLoading sync enabled: 0
+2026-11-14 19:58:46.633: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-14 19:58:46.633: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-14 19:58:46.633: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-14 19:58:46.731: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-14 19:58:59.935: [INFO] CurrentProfilePath: G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-14 19:58:59.935: [INFO] Profiles total count: 1
+2026-11-14 19:58:59.935: [INFO] Profile: name=Profile 1 path=G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-12T20:29:58.972Z
+2026-11-14 19:58:59.935: [INFO] LastUsedProfileDir: G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-14 19:58:59.935: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-12T20:29:58.972Z
+2026-11-14 19:58:59.935: [INFO] OnDoneLoading sync enabled: 0
+2026-11-14 19:58:59.935: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-14 19:58:59.935: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-14 19:58:59.935: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-14 19:59:00.109: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-14 20:00:38.693: [INFO] CurrentProfilePath: G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-14 20:00:38.693: [INFO] Profiles total count: 1
+2026-11-14 20:00:38.693: [INFO] Profile: name=Profile 1 path=G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-12T20:29:58.972Z
+2026-11-14 20:00:38.693: [INFO] LastUsedProfileDir: G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-14 20:00:38.693: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-12T20:29:58.972Z
+2026-11-14 20:00:38.693: [INFO] OnDoneLoading sync enabled: 0
+2026-11-14 20:00:38.693: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-14 20:00:38.693: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-14 20:00:38.693: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-14 20:00:43.406: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-14 20:00:50.305: [INFO] CurrentProfilePath: G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-14 20:00:50.305: [INFO] Profiles total count: 1
+2026-11-14 20:00:50.305: [INFO] Profile: name=Profile 1 path=G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-12T20:29:58.972Z
+2026-11-14 20:00:50.305: [INFO] LastUsedProfileDir: G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-14 20:00:50.305: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-12T20:29:58.972Z
+2026-11-14 20:00:50.305: [INFO] OnDoneLoading sync enabled: 0
+2026-11-14 20:00:50.305: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-14 20:00:50.305: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-14 20:00:50.305: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-14 20:00:56.397: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-14 20:02:28.396: [INFO] CurrentProfilePath: G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-14 20:02:28.396: [INFO] Profiles total count: 1
+2026-11-14 20:02:28.396: [INFO] Profile: name=Profile 1 path=G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-12T20:29:58.972Z
+2026-11-14 20:02:28.396: [INFO] LastUsedProfileDir: G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-14 20:02:28.396: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-12T20:29:58.972Z
+2026-11-14 20:02:28.396: [INFO] OnDoneLoading sync enabled: 0
+2026-11-14 20:02:28.396: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-14 20:02:28.396: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-14 20:02:28.396: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-14 20:02:32.090: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-14 20:03:52.913: [INFO] CurrentProfilePath: G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-14 20:03:52.913: [INFO] Profiles total count: 1
+2026-11-14 20:03:52.913: [INFO] Profile: name=Profile 1 path=G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-12T20:29:58.972Z
+2026-11-14 20:03:52.913: [INFO] LastUsedProfileDir: G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-14 20:03:52.913: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-12T20:29:58.972Z
+2026-11-14 20:03:52.913: [INFO] OnDoneLoading sync enabled: 0
+2026-11-14 20:03:52.913: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-14 20:03:52.913: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-14 20:03:52.913: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-14 20:04:06.517: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-14 20:07:30.363: [INFO] CurrentProfilePath: G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-14 20:07:30.363: [INFO] Profiles total count: 1
+2026-11-14 20:07:30.363: [INFO] Profile: name=Profile 1 path=G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-12T20:29:58.972Z
+2026-11-14 20:07:30.363: [INFO] LastUsedProfileDir: G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-14 20:07:30.363: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-12T20:29:58.972Z
+2026-11-14 20:07:30.363: [INFO] OnDoneLoading sync enabled: 0
+2026-11-14 20:07:30.363: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-14 20:07:30.363: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-14 20:07:30.363: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-14 20:07:36.904: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-14 20:08:17.975: [INFO] CurrentProfilePath: G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-14 20:08:17.975: [INFO] Profiles total count: 1
+2026-11-14 20:08:17.975: [INFO] Profile: name=Profile 1 path=G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-12T20:29:58.972Z
+2026-11-14 20:08:17.975: [INFO] LastUsedProfileDir: G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-14 20:08:17.975: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-12T20:29:58.972Z
+2026-11-14 20:08:17.975: [INFO] OnDoneLoading sync enabled: 0
+2026-11-14 20:08:17.975: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-14 20:08:17.975: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-14 20:08:17.975: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-14 20:08:27.505: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-14 20:08:45.243: [INFO] CurrentProfilePath: G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-14 20:08:45.243: [INFO] Profiles total count: 1
+2026-11-14 20:08:45.243: [INFO] Profile: name=Profile 1 path=G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-12T20:29:58.972Z
+2026-11-14 20:08:45.243: [INFO] LastUsedProfileDir: G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-14 20:08:45.243: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-12T20:29:58.972Z
+2026-11-14 20:08:45.243: [INFO] OnDoneLoading sync enabled: 0
+2026-11-14 20:08:45.243: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-14 20:08:45.243: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-14 20:08:45.243: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-14 20:08:47.833: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-14 20:09:23.479: [INFO] CurrentProfilePath: G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-14 20:09:23.479: [INFO] Profiles total count: 1
+2026-11-14 20:09:23.479: [INFO] Profile: name=Profile 1 path=G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-12T20:29:58.972Z
+2026-11-14 20:09:23.479: [INFO] LastUsedProfileDir: G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-14 20:09:23.479: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-12T20:29:58.972Z
+2026-11-14 20:09:23.479: [INFO] OnDoneLoading sync enabled: 0
+2026-11-14 20:09:23.479: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-14 20:09:23.479: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-14 20:09:23.479: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-14 20:09:26.856: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-14 20:13:05.402: [INFO] CurrentProfilePath: G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-14 20:13:05.402: [INFO] Profiles total count: 1
+2026-11-14 20:13:05.402: [INFO] Profile: name=Profile 1 path=G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-12T20:29:58.972Z
+2026-11-14 20:13:05.402: [INFO] LastUsedProfileDir: G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-14 20:13:05.402: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-12T20:29:58.972Z
+2026-11-14 20:13:05.402: [INFO] OnDoneLoading sync enabled: 0
+2026-11-14 20:13:05.402: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-14 20:13:05.402: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-14 20:13:05.402: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-14 20:30:19.917: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-14 20:30:29.164: [INFO] CurrentProfilePath: G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-14 20:30:29.164: [INFO] Profiles total count: 1
+2026-11-14 20:30:29.164: [INFO] Profile: name=Profile 1 path=G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-12T20:29:58.972Z
+2026-11-14 20:30:29.164: [INFO] LastUsedProfileDir: G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-14 20:30:29.164: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-12T20:29:58.972Z
+2026-11-14 20:30:29.164: [INFO] OnDoneLoading sync enabled: 0
+2026-11-14 20:30:29.164: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-14 20:30:29.164: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-14 20:30:29.164: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-14 20:48:45.828: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-14 21:25:08.624: [INFO] CurrentProfilePath: G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-14 21:25:08.624: [INFO] Profiles total count: 1
+2026-11-14 21:25:08.624: [INFO] Profile: name=Profile 1 path=G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-12T20:29:58.972Z
+2026-11-14 21:25:08.624: [INFO] LastUsedProfileDir: G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-14 21:25:08.624: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-12T20:29:58.972Z
+2026-11-14 21:25:08.624: [INFO] OnDoneLoading sync enabled: 0
+2026-11-14 21:25:08.624: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-14 21:25:08.624: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-14 21:25:08.624: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-14 21:25:27.716: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-14 21:27:04.231: [INFO] CurrentProfilePath: G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-14 21:27:04.231: [INFO] Profiles total count: 1
+2026-11-14 21:27:04.231: [INFO] Profile: name=Profile 1 path=G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-12T20:29:58.972Z
+2026-11-14 21:27:04.231: [INFO] LastUsedProfileDir: G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-14 21:27:04.231: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=G:\Microservices-Pro-Shrinivas\realtime-proj\HUNGER_RESTARUNT\Hunger-saviour-Backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-12T20:29:58.972Z
+2026-11-14 21:27:04.231: [INFO] OnDoneLoading sync enabled: 0
+2026-11-14 21:27:04.231: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-14 21:27:04.231: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-14 21:27:04.231: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1

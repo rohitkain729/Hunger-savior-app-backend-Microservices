@@ -1,6 +1,7 @@
 package com.hunger.saviour.portal.service.impl;
 
 import java.util.List;
+import java.util.Optional;
 
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;
@@ -19,23 +20,24 @@ import lombok.RequiredArgsConstructor;
 public class RestaurantServiceIMPL implements RestaurantService {
 
 	private final RestaurantRepository restaurantRepository;
-	
-	@Override
-	public Page<RestaurantEntity>  getRestaurants(int pageNumber, int pageSize) {
-		
-		Page<RestaurantEntity> restaurants = this.restaurantRepository.findAll(PageRequest.of(pageNumber, pageSize));
 
+	@Override
+	public Page<RestaurantEntity> getRestaurants(int pageNumber, int pageSize) {
+		Page<RestaurantEntity> restaurants = this.restaurantRepository.findAll(PageRequest.of(pageNumber, pageSize));
 		return restaurants;
-		
+
 	}
 
 	@Override
 	public List<RestaurantDTO> getAllRestaurants() {
-		
 		List<RestaurantEntity> allRestaurants = this.restaurantRepository.findAll();
-		
-		 return	allRestaurants.stream()
-			.map(RestaurantMapper.INSTANCE::entityToDTO).toList();
+		return allRestaurants.stream().map(RestaurantMapper.INSTANCE::entityToDTO).toList();
 	}
 
+	@Override
+	public RestaurantDTO getRestaurantById(Integer restaurantId) {
+		RestaurantEntity restaurantEntity = restaurantRepository.findById(restaurantId)
+				.orElseThrow(() -> new RuntimeException("Restaurant Id Not found"));
+		return RestaurantMapper.INSTANCE.entityToDTO(restaurantEntity);
+	}
 }
